@@ -1,295 +1,295 @@
-Season,League,Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper
-2017-2018,Bundesliga,1,Bayern Munich,34,27,3,4,92,28,64,84,"75,000",Robert Lewandowski - 29,Sven Ulreich
-2017-2018,Bundesliga,2,Schalke 04,34,18,9,7,53,37,16,63,"61,197",Guido Burgstaller - 11,Ralf FÃ¤hrmann
-2017-2018,Bundesliga,3,Hoffenheim,34,15,10,9,66,48,18,55,"28,716",Mark Uth - 14,Oliver Baumann
-2017-2018,Bundesliga,4,Dortmund,34,15,10,9,64,47,17,55,"79,496",Pierre-Emerick Aubameyang - 13,Roman BÃ¼rki
-2017-2018,Bundesliga,5,Leverkusen,34,15,10,9,58,44,14,55,"28,415",Kevin Volland - 14,Bernd Leno
-2017-2018,Bundesliga,6,RB Leipzig,34,15,8,11,57,53,4,53,"39,397",Timo Werner - 13,PÃ©ter GulÃ¡csi
-2017-2018,Bundesliga,7,Stuttgart,34,15,6,13,36,36,0,51,"56,045",Mario GÃ³mez - 8,Ron-Robert Zieler
-2017-2018,Bundesliga,8,Eint Frankfurt,34,14,7,13,45,45,0,49,"49,159",SÃ©bastien Haller - 9,LukÃ¡Å¡ HrÃ¡deckÃ½
-2017-2018,Bundesliga,9,M'Gladbach,34,13,8,13,47,52,-5,47,"50,986",Thorgan Hazard - 10,Yann Sommer
-2017-2018,Bundesliga,10,Hertha BSC,34,10,13,11,43,46,-3,43,"45,319",Salomon Kalou - 12,Rune Jarstein
-2017-2018,Bundesliga,11,Werder Bremen,34,10,12,12,37,40,-3,42,"38,726",Max Kruse - 6,JiÅ™Ã­ Pavlenka
-2017-2018,Bundesliga,12,Augsburg,34,10,11,13,43,46,-3,41,"28,238",Michael Gregoritsch - 13,Marwin Hitz
-2017-2018,Bundesliga,13,Hannover 96,34,10,9,15,44,54,-10,39,"42,706",Niclas FÃ¼llkrug - 14,Philipp Tschauner
-2017-2018,Bundesliga,14,Mainz 05,34,9,9,16,38,52,-14,36,"28,766",Yoshinori MutÅ - 8,Robin Zentner
-2017-2018,Bundesliga,15,Freiburg,34,8,12,14,32,56,-24,36,"23,894",Nils Petersen - 15,Alexander Schwolow
-2017-2018,Bundesliga,16,Wolfsburg,34,6,15,13,36,48,-12,33,"25,712",Daniel Didavi - 9,Koen Casteels
-2017-2018,Bundesliga,17,Hamburger SV,34,8,7,19,29,53,-24,31,"50,656",Lewis Holtby - 6,Christian Mathenia
-2017-2018,Bundesliga,18,KÃ¶ln,34,5,7,22,35,70,-35,22,"48,776","Leonardo Bittencourt, Simon Terodde - 5",Timo Horn
-2017-2018,La Liga,1,Barcelona,38,28,9,1,99,29,70,93,"66,603",Lionel Messi - 34,Marc-AndrÃ© ter Stegen
-2017-2018,La Liga,2,AtlÃ©tico Madrid,38,23,10,5,58,22,36,79,"55,483",Antoine Griezmann - 19,Jan Oblak
-2017-2018,La Liga,3,Real Madrid,38,22,10,6,94,44,50,76,"66,161",Cristiano Ronaldo - 26,Keylor Navas
-2017-2018,La Liga,4,Valencia,38,22,7,9,65,38,27,73,"38,657",Rodrigo - 16,Neto
-2017-2018,La Liga,5,Villarreal,38,18,7,13,57,50,7,61,"16,731",Carlos Bacca - 15,Sergio Asenjo
-2017-2018,La Liga,6,Betis,38,18,6,14,60,61,-1,60,"46,711",Sergio LeÃ³n - 11,Antonio AdÃ¡n
-2017-2018,La Liga,7,Sevilla,38,17,7,14,49,58,-9,58,"33,045",Wissam Ben Yedder - 9,Sergio Rico
-2017-2018,La Liga,8,Getafe,38,15,10,13,42,33,9,55,"10,318",Ãngel RodrÃ­guez - 13,Vicente Guaita
-2017-2018,La Liga,9,Eibar,38,14,9,15,44,50,-6,51,"5,338","Kike, Charles - 8",Marko DmitroviÄ‡
-2017-2018,La Liga,10,Girona,38,14,9,15,50,59,-9,51,"10,330",Cristhian Stuani - 21,Yassine Bounou
-2017-2018,La Liga,11,Espanyol,38,12,13,13,36,42,-6,49,"17,768",Gerard Moreno - 16,Pau LÃ³pez
-2017-2018,La Liga,12,Real Sociedad,38,14,7,17,66,59,7,49,"19,736",Willian JosÃ© - 15,GerÃ³nimo Rulli
-2017-2018,La Liga,13,Celta Vigo,38,13,10,15,59,60,-1,49,"15,683",Iago Aspas - 22,RubÃ©n Blanco
-2017-2018,La Liga,14,AlavÃ©s,38,15,2,21,40,50,-10,47,"16,819",Munir El Haddadi - 10,Fernando Pacheco
-2017-2018,La Liga,15,Levante,38,11,13,14,44,58,-14,46,"17,927",JosÃ© Luis Morales - 10,Oier OlazÃ¡bal
-2017-2018,La Liga,16,Athletic Club,38,10,13,15,41,49,-8,43,"37,325",RaÃºl GarcÃ­a - 10,Kepa Arrizabalaga
-2017-2018,La Liga,17,LeganÃ©s,38,12,7,19,34,51,-17,43,"9,539",Gabriel - 5,IvÃ¡n CuÃ©llar
-2017-2018,La Liga,18,La CoruÃ±a,38,6,11,21,38,76,-38,29,"20,612",AdriÃ¡n LÃ³pez - 9,RubÃ©n
-2017-2018,La Liga,19,Las Palmas,38,5,7,26,24,74,-50,22,"16,156",Jonathan Calleri - 9,Leandro Chichizola
-2017-2018,La Liga,20,MÃ¡laga,38,5,5,28,24,61,-37,20,"20,420",Diego RolÃ¡n - 5,Roberto
-2017-2018,League 1,1,Paris S-G,38,29,6,3,108,29,79,93,"46,929",Edinson Cavani - 28,Alphonse Areola
-2017-2018,League 1,2,Monaco,38,24,8,6,85,45,40,80,"9,243",Radamel Falcao - 18,Danijel SubaÅ¡iÄ‡
-2017-2018,League 1,3,Lyon,38,23,9,6,87,43,44,78,"46,005",Memphis Depay - 19,Anthony Lopes
-2017-2018,League 1,4,Marseille,38,22,11,5,80,47,33,77,"46,040",Florian Thauvin - 22,Steve Mandanda
-2017-2018,League 1,5,Rennes,38,16,10,12,50,44,6,58,"23,111",Benjamin Bourigeaud - 10,TomÃ¡Å¡ Koubek
-2017-2018,League 1,6,Bordeaux,38,16,7,15,53,48,5,55,"26,470",Malcom - 12,BenoÃ®t Costil
-2017-2018,League 1,7,Saint-Ã‰tienne,38,15,10,13,47,50,-3,55,"28,142","Jonathan Bamba, RÃ©my Cabella... - 7",StÃ©phane Ruffier
-2017-2018,League 1,8,Nice,38,15,9,14,53,52,1,54,"22,876",Mario Balotelli - 18,Walter BenÃ­tez
-2017-2018,League 1,9,Nantes,38,14,10,14,36,41,-5,52,"24,559",Emiliano Sala - 12,Ciprian TÄƒtÄƒruÈ™anu
-2017-2018,League 1,10,Montpellier,38,11,18,9,36,33,3,51,"13,458",Giovanni Sio - 10,Benjamin Lecomte
-2017-2018,League 1,11,Dijon,38,13,9,16,55,73,-18,48,"12,228",JÃºlio Tavares - 12,Baptiste Reynet
-2017-2018,League 1,12,Guingamp,38,12,11,15,48,59,-11,47,"14,506",Jimmy Briand - 11,Karl-Johan Johnsson
-2017-2018,League 1,13,Amiens,38,12,9,17,37,42,-5,45,"9,644",Moussa KonatÃ© - 13,RÃ©gis Gurtner
-2017-2018,League 1,14,Angers,38,9,14,15,42,52,-10,41,"11,062",Karl Toko Ekambi - 17,Ludovic Butelle
-2017-2018,League 1,15,Strasbourg,38,9,11,18,44,67,-23,38,"24,083",StÃ©phane Bahoken - 7,Bingourou Kamara
-2017-2018,League 1,16,Caen,38,10,8,20,27,52,-25,38,"17,188",Ivan Santini - 11,RÃ©my Vercoutre
-2017-2018,League 1,17,Lille,38,10,8,20,41,67,-26,38,"31,453",Nicolas PÃ©pÃ© - 13,Mike Maignan
-2017-2018,League 1,18,Toulouse,38,9,10,19,38,54,-16,37,"16,924",Max Gradel - 8,Alban Lafont
-2017-2018,League 1,19,Troyes,38,9,6,23,32,59,-27,33,"12,196",Adama Niane - 8,Mamadou Samassa
-2017-2018,League 1,20,Metz,38,6,8,24,34,76,-42,26,"14,839",Nolan Roux - 15,Eiji Kawashima
-2017-2018,EPL,1,Manchester City,38,32,4,2,106,27,79,100,"54,070",Sergio AgÃ¼ero - 21,Ederson
-2017-2018,EPL,2,Manchester Utd,38,25,6,7,68,28,40,81,"74,976",Romelu Lukaku - 16,David de Gea
-2017-2018,EPL,3,Tottenham,38,23,8,7,74,36,38,77,"67,953",Harry Kane - 30,Hugo Lloris
-2017-2018,EPL,4,Liverpool,38,21,12,5,84,38,46,75,"53,049",Mohamed Salah - 32,"Loris Karius, Simon Mignolet"
-2017-2018,EPL,5,Chelsea,38,21,7,10,62,38,24,70,"41,282",Eden Hazard - 12,Thibaut Courtois
-2017-2018,EPL,6,Arsenal,38,19,6,13,74,51,23,63,"59,323",Alexandre Lacazette - 14,Petr ÄŒech
-2017-2018,EPL,7,Burnley,38,14,12,12,36,39,-3,54,"20,688",Chris Wood - 10,Nick Pope
-2017-2018,EPL,8,Everton,38,13,10,15,44,58,-14,49,"38,797",Wayne Rooney - 10,Jordan Pickford
-2017-2018,EPL,9,Leicester City,38,12,11,15,56,60,-4,47,"31,583",Jamie Vardy - 20,Kasper Schmeichel
-2017-2018,EPL,10,Newcastle Utd,38,12,8,18,39,47,-8,44,"51,992",Ayoze PÃ©rez - 8,Rob Elliot
-2017-2018,EPL,11,Crystal Palace,38,11,11,16,45,55,-10,44,"25,063",Luka MilivojeviÄ‡ - 10,Wayne Hennessey
-2017-2018,EPL,12,Bournemouth,38,11,11,16,45,61,-16,44,"10,641","Callum Wilson, Joshua King - 8",Asmir BegoviÄ‡
-2017-2018,EPL,13,West Ham,38,10,12,16,48,68,-20,42,"56,885",Marko ArnautoviÄ‡ - 11,"Joe Hart, AdriÃ¡n"
-2017-2018,EPL,14,Watford,38,11,8,19,44,64,-20,41,"20,231",Abdoulaye DoucourÃ© - 7,Heurelho Gomes
-2017-2018,EPL,15,Brighton,38,9,13,16,34,54,-20,40,"30,403",Glenn Murray - 12,Mathew Ryan
-2017-2018,EPL,16,Huddersfield,38,9,10,19,28,58,-30,37,"24,040",Steve MouniÃ© - 7,Jonas LÃ¶ssl
-2017-2018,EPL,17,Southampton,38,7,15,16,37,56,-19,36,"30,794",Charlie Austin - 7,Fraser Forster
-2017-2018,EPL,18,Swansea City,38,8,9,21,28,56,-28,33,"20,623",Jordan Ayew - 7,Åukasz FabiaÅ„ski
-2017-2018,EPL,19,Stoke City,38,7,12,19,35,68,-33,33,"29,280",Xherdan Shaqiri - 8,Jack Butland
-2017-2018,EPL,20,West Brom,38,6,13,19,31,56,-25,31,"24,520","SalomÃ³n RondÃ³n, Jay Rodriguez - 7",Ben Foster
-2017-2018,Serie A,1,Juventus,38,30,5,3,86,24,62,95,"39,316",Paulo Dybala - 22,Gianluigi Buffon
-2017-2018,Serie A,2,Napoli,38,28,7,3,77,29,48,91,"43,050",Dries Mertens - 18,Pepe Reina
-2017-2018,Serie A,3,Roma,38,23,8,7,61,28,33,77,"37,450",Edin DÅ¾eko - 16,Alisson
-2017-2018,Serie A,4,Inter,38,20,12,6,66,30,36,72,"57,529",Mauro Icardi - 29,Samir HandanoviÄ‡
-2017-2018,Serie A,5,Lazio,38,21,9,8,89,49,40,72,"30,990",Ciro Immobile - 29,Thomas Strakosha
-2017-2018,Serie A,6,Milan,38,18,10,10,56,42,14,64,"52,690",Patrick Cutrone - 10,Gianluigi Donnarumma
-2017-2018,Serie A,7,Atalanta,38,16,12,10,57,39,18,60,"17,921",Josip IliÄiÄ‡ - 11,Etrit Berisha
-2017-2018,Serie A,8,Fiorentina,38,16,9,13,54,46,8,57,"26,092",Giovanni Simeone - 14,Marco Sportiello
-2017-2018,Serie A,9,Torino,38,13,15,10,54,46,8,54,"18,596",Iago Falque - 12,Salvatore Sirigu
-2017-2018,Serie A,10,Sampdoria,38,16,6,16,56,60,-4,54,"20,156",Fabio Quagliarella - 19,Emiliano Viviano
-2017-2018,Serie A,11,Sassuolo,38,11,10,17,29,59,-30,43,"11,237",Matteo Politano - 10,Andrea Consigli
-2017-2018,Serie A,12,Genoa,38,11,8,19,33,43,-10,41,"20,941",Gianluca Lapadula - 6,Mattia Perin
-2017-2018,Serie A,13,Chievo,38,10,10,18,36,59,-23,40,"12,540",Roberto Inglese - 12,Stefano Sorrentino
-2017-2018,Serie A,14,Udinese,38,12,4,22,48,63,-15,40,"17,906",Kevin Lasagna - 12,Albano Bizzarri
-2017-2018,Serie A,15,Bologna,38,11,6,21,40,52,-12,39,"20,903",Simone Verdi - 10,Antonio Mirante
-2017-2018,Serie A,16,Cagliari,38,11,6,21,33,61,-28,39,"14,685",Leonardo Pavoletti - 11,Alessio Cragno
-2017-2018,Serie A,17,SPAL,38,8,14,16,39,59,-20,38,"12,067",Mirco Antenucci - 11,Alfred Gomis
-2017-2018,Serie A,18,Crotone,38,9,8,21,40,66,-26,35,"10,581","Simeon Nwankwo, Marcello Trotta - 7",Alex Cordaz
-2017-2018,Serie A,19,Hellas Verona,38,7,4,27,30,78,-48,25,"17,333","Moise Kean, Giampaolo Pazzini - 4",NÃ­colas Andrade
-2017-2018,Serie A,20,Benevento,38,6,3,29,33,84,-51,21,"12,132",Cheick DiabatÃ© - 8,Christian Puggioni
-2018-2019,Bundesliga,1,Bayern Munich,34,24,6,4,88,32,56,78,"75,000",Robert Lewandowski - 22,Manuel Neuer
-2018-2019,Bundesliga,2,Dortmund,34,23,7,4,81,44,37,76,"80,841",Paco AlcÃ¡cer - 18,Roman BÃ¼rki
-2018-2019,Bundesliga,3,RB Leipzig,34,19,9,6,63,29,34,66,"38,380",Timo Werner - 16,PÃ©ter GulÃ¡csi
-2018-2019,Bundesliga,4,Leverkusen,34,18,4,12,69,52,17,58,"27,990",Kai Havertz - 17,LukÃ¡Å¡ HrÃ¡deckÃ½
-2018-2019,Bundesliga,5,M'Gladbach,34,16,7,11,55,42,13,55,"49,668",Alassane PlÃ©a - 12,Yann Sommer
-2018-2019,Bundesliga,6,Wolfsburg,34,16,7,11,62,50,12,55,"24,479",Wout Weghorst - 17,Koen Casteels
-2018-2019,Bundesliga,7,Eint Frankfurt,34,15,9,10,60,48,12,54,"49,794",Luka JoviÄ‡ - 17,Kevin Trapp
-2018-2019,Bundesliga,8,Werder Bremen,34,14,11,9,58,49,9,53,"41,403",Max Kruse - 11,JiÅ™Ã­ Pavlenka
-2018-2019,Bundesliga,9,Hoffenheim,34,13,12,9,70,52,18,51,"28,456",Andrej KramariÄ‡ - 17,Oliver Baumann
-2018-2019,Bundesliga,10,DÃ¼sseldorf,34,13,5,16,49,65,-16,44,"43,869","Dodi Lukebakio, Benito Raman - 10",Michael Rensing
-2018-2019,Bundesliga,11,Hertha BSC,34,11,10,13,49,57,-8,43,"49,258",Ondrej Duda - 11,Rune Jarstein
-2018-2019,Bundesliga,12,Mainz 05,34,12,7,15,46,57,-11,43,"26,246",Jean-Philippe Mateta - 14,Florian MÃ¼ller
-2018-2019,Bundesliga,13,Freiburg,34,8,12,14,46,61,-15,36,"23,894",Nils Petersen - 10,Alexander Schwolow
-2018-2019,Bundesliga,14,Schalke 04,34,8,9,17,37,55,-18,33,"60,941",Daniel Caligiuri - 7,Alexander NÃ¼bel
-2018-2019,Bundesliga,15,Augsburg,34,8,8,18,51,71,-20,32,"28,623",AlfreÃ° Finnbogason - 10,Gregor Kobel
-2018-2019,Bundesliga,16,Stuttgart,34,7,7,20,32,70,-38,28,"54,577",Mario GÃ³mez - 7,Ron-Robert Zieler
-2018-2019,Bundesliga,17,Hannover 96,34,5,6,23,31,71,-40,21,"38,365",Hendrik Weydandt - 6,Michael Esser
-2018-2019,Bundesliga,18,NÃ¼rnberg,34,3,10,21,26,68,-42,19,"40,372","Mikael Ishak, Hanno Behrens - 4",Christian Mathenia
-2018-2019,La Liga,1,Barcelona,38,26,9,3,90,36,54,87,"76,104",Lionel Messi - 36,Marc-AndrÃ© ter Stegen
-2018-2019,La Liga,2,AtlÃ©tico Madrid,38,22,10,6,55,29,26,76,"56,216",Antoine Griezmann - 15,Jan Oblak
-2018-2019,La Liga,3,Real Madrid,38,21,5,12,63,46,17,68,"61,040",Karim Benzema - 21,Thibaut Courtois
-2018-2019,La Liga,4,Valencia,38,15,16,7,51,35,16,61,"39,504",Daniel Parejo - 9,Neto
-2018-2019,La Liga,5,Getafe,38,15,14,9,48,35,13,59,"11,000","Jaime Mata, Jorge Molina - 14",David Soria
-2018-2019,La Liga,6,Sevilla,38,17,8,13,62,47,15,59,"35,993",Wissam Ben Yedder - 18,TomÃ¡Å¡ VaclÃ­k
-2018-2019,La Liga,7,Espanyol,38,14,11,13,48,50,-2,53,"19,388",Borja Iglesias - 17,Diego LÃ³pez
-2018-2019,La Liga,8,Athletic Club,38,13,14,11,41,45,-4,53,"40,664",IÃ±aki Williams - 12,Iago HerrerÃ­n
-2018-2019,La Liga,9,Real Sociedad,38,13,11,14,45,46,-1,50,"22,310",Mikel Oyarzabal - 13,GerÃ³nimo Rulli
-2018-2019,La Liga,10,Betis,38,14,8,16,44,52,-8,50,"44,525",Giovani Lo Celso - 9,Pau LÃ³pez
-2018-2019,La Liga,11,AlavÃ©s,38,13,11,14,39,50,-11,50,"17,295",Jonathan Calleri - 9,Fernando Pacheco
-2018-2019,La Liga,12,Eibar,38,11,14,13,46,50,-4,47,"4,896",Charles - 14,Marko DmitroviÄ‡
-2018-2019,La Liga,13,LeganÃ©s,38,11,12,15,37,43,-6,45,"10,416",Youssef En-Nesyri - 9,IvÃ¡n CuÃ©llar
-2018-2019,La Liga,14,Villarreal,38,10,14,14,49,52,-3,44,"16,732",Karl Toko Ekambi - 10,Sergio Asenjo
-2018-2019,La Liga,15,Levante,38,11,11,16,59,66,-7,44,"20,216",Roger MartÃ­ - 13,Oier OlazÃ¡bal
-2018-2019,La Liga,16,Valladolid,38,10,11,17,32,51,-19,41,"18,992",Enes Ãœnal - 6,Jordi Masip
-2018-2019,La Liga,17,Celta Vigo,38,10,11,17,53,62,-9,41,"17,603",Iago Aspas - 20,RubÃ©n Blanco
-2018-2019,La Liga,18,Girona,38,9,10,19,37,53,-16,37,"10,948",Cristhian Stuani - 19,Yassine Bounou
-2018-2019,La Liga,19,Huesca,38,7,12,19,43,65,-22,33,"6,605",Ezequiel Ãvila - 10,Roberto SantamarÃ­a
-2018-2019,La Liga,20,Rayo Vallecano,38,8,8,22,41,70,-29,32,"11,928",RaÃºl de TomÃ¡s - 14,Stole Dimitrievski
-2018-2019,League 1,1,Paris S-G,38,29,4,5,105,35,70,91,"46,911",Kylian MbappÃ© - 33,Alphonse Areola
-2018-2019,League 1,2,Lille,38,22,9,7,68,33,35,75,"34,079",Nicolas PÃ©pÃ© - 22,Mike Maignan
-2018-2019,League 1,3,Lyon,38,21,9,8,70,47,23,72,"49,079",Moussa DembÃ©lÃ© - 15,Anthony Lopes
-2018-2019,League 1,4,Saint-Ã‰tienne,38,19,9,10,59,41,18,66,"28,400",Wahbi Khazri - 13,StÃ©phane Ruffier
-2018-2019,League 1,5,Marseille,38,18,7,13,60,52,8,61,"50,140",Florian Thauvin - 16,Steve Mandanda
-2018-2019,League 1,6,Montpellier,38,15,14,9,53,42,11,59,"13,829",Andy Delort - 14,Benjamin Lecomte
-2018-2019,League 1,7,Nice,38,15,11,12,30,35,-5,56,"19,126",Youcef Attal - 6,Walter BenÃ­tez
-2018-2019,League 1,8,Reims,38,13,16,9,39,42,-3,55,"14,342",Remi Oudin - 10,Edouard Mendy
-2018-2019,League 1,9,NÃ®mes,38,15,8,15,57,58,-1,53,"13,994","Renaud Ripart, Denis Bouanga - 8",Paul Bernardoni
-2018-2019,League 1,10,Rennes,38,13,13,12,55,52,3,52,"23,675",M'Baye Niang - 11,TomÃ¡Å¡ Koubek
-2018-2019,League 1,11,Strasbourg,38,11,16,11,58,48,10,49,"25,216","Ludovic Ajorque, Lebo Mothiba - 9",Matz Sels
-2018-2019,League 1,12,Nantes,38,13,9,16,48,48,0,48,"25,185",Emiliano Sala - 12,Ciprian TÄƒtÄƒruÈ™anu
-2018-2019,League 1,13,Angers,38,10,16,12,44,49,-5,46,"11,189",StÃ©phane Bahoken - 11,Ludovic Butelle
-2018-2019,League 1,14,Bordeaux,38,10,11,17,34,42,-8,41,"20,838",FranÃ§ois Kamano - 10,BenoÃ®t Costil
-2018-2019,League 1,15,Amiens,38,9,11,18,31,52,-21,38,"11,043",Moussa KonatÃ© - 7,RÃ©gis Gurtner
-2018-2019,League 1,16,Toulouse,38,8,14,16,35,57,-22,38,"16,224",Max Gradel - 11,Baptiste Reynet
-2018-2019,League 1,17,Monaco,38,8,12,18,38,57,-19,36,"8,447",Radamel Falcao - 15,Diego Benaglio
-2018-2019,League 1,18,Dijon,38,9,7,22,31,60,-29,34,"13,044",JÃºlio Tavares - 5,RÃºnar Alex RÃºnarsson
-2018-2019,League 1,19,Caen,38,7,12,19,29,54,-25,33,"16,654","Casimir Ninga, Enzo Crivelli - 6",Brice Samba
-2018-2019,League 1,20,Guingamp,38,5,12,21,28,68,-40,27,"14,731",Marcus Thuram - 9,Marc-AurÃ¨le Caillard
-2018-2019,EPL,1,Manchester City,38,32,2,4,95,23,72,98,"54,130",Sergio AgÃ¼ero - 21,Ederson
-2018-2019,EPL,2,Liverpool,38,30,7,1,89,22,67,97,"52,983","Sadio ManÃ©, Mohamed Salah - 22",Alisson
-2018-2019,EPL,3,Chelsea,38,21,9,8,63,39,24,72,"40,437",Eden Hazard - 16,Kepa Arrizabalaga
-2018-2019,EPL,4,Tottenham,38,23,2,13,67,39,28,71,"54,216",Harry Kane - 17,Hugo Lloris
-2018-2019,EPL,5,Arsenal,38,21,7,10,73,51,22,70,"59,899",Pierre-Emerick Aubameyang - 22,Bernd Leno
-2018-2019,EPL,6,Manchester Utd,38,19,9,10,65,54,11,66,"74,498",Paul Pogba - 13,David de Gea
-2018-2019,EPL,7,Wolves,38,16,9,13,47,46,1,57,"31,030",RaÃºl JimÃ©nez - 13,Rui PatrÃ­cio
-2018-2019,EPL,8,Everton,38,15,9,14,54,46,8,54,"39,043","Gylfi SigurÃ°sson, Richarlison - 13",Jordan Pickford
-2018-2019,EPL,9,Leicester City,38,15,7,16,51,48,3,52,"31,851",Jamie Vardy - 18,Kasper Schmeichel
-2018-2019,EPL,10,West Ham,38,15,7,16,52,55,-3,52,"58,336",Marko ArnautoviÄ‡ - 10,Åukasz FabiaÅ„ski
-2018-2019,EPL,11,Watford,38,14,8,16,52,59,-7,50,"20,016",Gerard Deulofeu - 10,Ben Foster
-2018-2019,EPL,12,Crystal Palace,38,14,7,17,51,53,-2,49,"25,455",Luka MilivojeviÄ‡ - 12,Vicente Guaita
-2018-2019,EPL,13,Newcastle Utd,38,12,9,17,42,48,-6,45,"51,121",Ayoze PÃ©rez - 12,Martin DÃºbravka
-2018-2019,EPL,14,Bournemouth,38,13,6,19,56,70,-14,45,"10,532",Callum Wilson - 14,Asmir BegoviÄ‡
-2018-2019,EPL,15,Burnley,38,11,7,20,45,68,-23,40,"20,534",Ashley Barnes - 12,"Tom Heaton, Joe Hart"
-2018-2019,EPL,16,Southampton,38,9,12,17,45,65,-20,39,"30,139","James Ward-Prowse, Danny Ings - 7",Alex McCarthy
-2018-2019,EPL,17,Brighton,38,9,9,20,35,60,-25,36,"30,426",Glenn Murray - 13,Mathew Ryan
-2018-2019,EPL,18,Cardiff City,38,10,4,24,34,69,-35,34,"31,408","VÃ­ctor Camarasa, Bobby Reid - 5",Neil Etheridge
-2018-2019,EPL,19,Fulham,38,7,5,26,34,81,-47,26,"24,371",Aleksandar MitroviÄ‡ - 11,Sergio Rico
-2018-2019,EPL,20,Huddersfield,38,3,7,28,22,76,-54,16,"23,203","Aaron Mooy, Mathias JÃ¸rgensen... - 3",Jonas LÃ¶ssl
-2018-2019,Serie A,1,Juventus,38,28,6,4,70,30,40,90,"37,799",Cristiano Ronaldo - 21,Wojciech SzczÄ™sny
-2018-2019,Serie A,2,Napoli,38,24,7,7,74,36,38,79,"29,003",Arkadiusz Milik - 17,David Ospina
-2018-2019,Serie A,3,Atalanta,38,20,9,9,77,46,31,69,"18,301",DuvÃ¡n Zapata - 23,Pierluigi Gollini
-2018-2019,Serie A,4,Inter,38,20,9,9,57,33,24,69,"57,405",Mauro Icardi - 11,Samir HandanoviÄ‡
-2018-2019,Serie A,5,Milan,38,19,11,8,55,36,19,68,"54,651",Krzysztof PiÄ…tek - 9,Gianluigi Donnarumma
-2018-2019,Serie A,6,Roma,38,18,12,8,66,48,18,66,"38,622",Stephan El Shaarawy - 11,Robin Olsen
-2018-2019,Serie A,7,Torino,38,16,15,7,52,37,15,63,"21,323",Andrea Belotti - 15,Salvatore Sirigu
-2018-2019,Serie A,8,Lazio,38,17,8,13,56,46,10,59,"33,997",Ciro Immobile - 15,Thomas Strakosha
-2018-2019,Serie A,9,Sampdoria,38,15,8,15,60,51,9,53,"20,263",Fabio Quagliarella - 26,Emil Audero
-2018-2019,Serie A,10,Bologna,38,11,11,16,48,56,-8,44,"21,237","Riccardo Orsolini, Federico Santander - 8",Åukasz Skorupski
-2018-2019,Serie A,11,Sassuolo,38,9,16,13,53,60,-7,43,"12,369",Domenico Berardi - 8,Andrea Consigli
-2018-2019,Serie A,12,Udinese,38,11,10,17,39,53,-14,43,"20,414",Rodrigo De Paul - 9,Juan Musso
-2018-2019,Serie A,13,SPAL,38,11,9,18,44,56,-12,42,"14,745",Andrea Petagna - 16,Alfred Gomis
-2018-2019,Serie A,14,Parma,38,10,11,17,41,61,-20,41,"16,522",Gervinho - 11,Luigi Sepe
-2018-2019,Serie A,15,Cagliari,38,10,11,17,36,54,-18,41,"15,396",Leonardo Pavoletti - 16,Alessio Cragno
-2018-2019,Serie A,16,Fiorentina,38,8,17,13,47,45,2,41,"31,178",Marco Benassi - 7,Alban Lafont
-2018-2019,Serie A,17,Genoa,38,8,14,16,39,57,-18,38,"20,950",Krzysztof PiÄ…tek - 13,IonuÈ› Radu
-2018-2019,Serie A,18,Empoli,38,10,8,20,51,70,-19,38,"9,620",Francesco Caputo - 16,Ivan Provedel
-2018-2019,Serie A,19,Frosinone,38,5,10,23,29,69,-40,25,"12,656",Camillo Ciano - 7,Marco Sportiello
-2018-2019,Serie A,20,Chievo,38,2,14,22,25,75,-50,17,"12,142",Mariusz StÄ™piÅ„ski - 6,Stefano Sorrentino
-2019-2020,Bundesliga,1,Bayern Munich,34,26,4,4,100,32,68,82,"57,353",Robert Lewandowski - 34,Manuel Neuer
-2019-2020,Bundesliga,2,Dortmund,34,21,6,7,84,41,43,69,"57,297",Jadon Sancho - 17,Roman BÃ¼rki
-2019-2020,Bundesliga,3,RB Leipzig,34,18,12,4,81,37,44,66,"28,819",Timo Werner - 28,PÃ©ter GulÃ¡csi
-2019-2020,Bundesliga,4,M'Gladbach,34,20,5,9,66,40,26,65,"36,078","Marcus Thuram, Alassane PlÃ©a - 10",Yann Sommer
-2019-2020,Bundesliga,5,Leverkusen,34,19,6,9,61,44,17,63,"21,236",Kai Havertz - 12,LukÃ¡Å¡ HrÃ¡deckÃ½
-2019-2020,Bundesliga,6,Hoffenheim,34,15,7,12,53,53,0,52,"20,449",Andrej KramariÄ‡ - 12,Oliver Baumann
-2019-2020,Bundesliga,7,Wolfsburg,34,13,10,11,48,46,2,49,"18,621",Wout Weghorst - 16,Koen Casteels
-2019-2020,Bundesliga,8,Freiburg,34,13,9,12,48,47,1,48,"16,888",Nils Petersen - 11,Alexander Schwolow
-2019-2020,Bundesliga,9,Eint Frankfurt,34,13,6,15,59,60,-1,45,"35,435",AndrÃ© Silva - 12,Kevin Trapp
-2019-2020,Bundesliga,10,Hertha BSC,34,11,8,15,48,59,-11,41,"37,689","Dodi Lukebakio, Vedad IbiÅ¡eviÄ‡ - 7",Rune Jarstein
-2019-2020,Bundesliga,11,Union Berlin,34,12,5,17,41,58,-17,41,"15,467",Sebastian Andersson - 12,RafaÅ‚ Gikiewicz
-2019-2020,Bundesliga,12,Schalke 04,34,9,12,13,38,58,-20,39,"46,681",Suat Serdar - 7,Alexander NÃ¼bel
-2019-2020,Bundesliga,13,Mainz 05,34,11,4,19,44,65,-21,37,"20,694",Robin Quaison - 13,Robin Zentner
-2019-2020,Bundesliga,14,KÃ¶ln,34,10,6,18,51,69,-18,36,"35,094",Jhon CÃ³rdoba - 13,Timo Horn
-2019-2020,Bundesliga,15,Augsburg,34,9,9,16,45,63,-18,36,"20,265",Florian Niederlechner - 13,TomÃ¡Å¡ Koubek
-2019-2020,Bundesliga,16,Werder Bremen,34,8,7,19,42,69,-27,31,"26,413","Yuya Osako, Milot Rashica - 8",JiÅ™Ã­ Pavlenka
-2019-2020,Bundesliga,17,DÃ¼sseldorf,34,6,12,16,36,67,-31,30,"30,581",Rouwen Hennings - 15,"Zack Steffen, Florian Kastenmeier"
-2019-2020,Bundesliga,18,Paderborn 07,34,4,8,22,37,74,-37,20,"11,038","Streli Mamba, Sven Michel... - 5",Leopold Zingerle
-2019-2020,La Liga,1,Real Madrid,38,26,9,3,70,25,45,87,"45,833",Karim Benzema - 21,Thibaut Courtois
-2019-2020,La Liga,2,Barcelona,38,25,7,6,86,38,48,82,"54,223",Lionel Messi - 25,Marc-AndrÃ© ter Stegen
-2019-2020,La Liga,3,AtlÃ©tico Madrid,38,18,16,4,51,27,24,70,"42,236",Ãlvaro Morata - 12,Jan Oblak
-2019-2020,La Liga,4,Sevilla,38,19,13,6,54,34,20,70,"25,016",Lucas Ocampos - 14,TomÃ¡Å¡ VaclÃ­k
-2019-2020,La Liga,5,Villarreal,38,18,6,14,63,49,14,60,"11,321",Gerard Moreno - 18,Sergio Asenjo
-2019-2020,La Liga,6,Real Sociedad,38,16,8,14,56,48,8,56,"21,204",Willian JosÃ© - 11,Ãlex Remiro
-2019-2020,La Liga,7,Granada,38,16,8,14,52,45,7,56,"11,174",Carlos FernÃ¡ndez - 10,Rui Silva
-2019-2020,La Liga,8,Getafe,38,14,12,12,43,37,6,54,"8,000",Jaime Mata - 11,David Soria
-2019-2020,La Liga,9,Valencia,38,14,11,13,46,53,-7,53,"29,658",Maxi GÃ³mez - 9,Jasper Cillessen
-2019-2020,La Liga,10,Osasuna,38,13,13,12,46,54,-8,52,"11,453",Ezequiel Ãvila - 9,Sergio Herrera
-2019-2020,La Liga,11,Athletic Club,38,13,12,13,41,38,3,51,"28,039",RaÃºl GarcÃ­a - 15,Unai SimÃ³n
-2019-2020,La Liga,12,Levante,38,14,7,17,47,53,-6,49,"13,196",Roger MartÃ­ - 11,Aitor FernÃ¡ndez
-2019-2020,La Liga,13,Valladolid,38,9,15,14,32,43,-11,42,"13,580",Sergi Guardiola - 8,Jordi Masip
-2019-2020,La Liga,14,Eibar,38,11,9,18,39,56,-17,42,"4,151",FabiÃ¡n Orellana - 8,Marko DmitroviÄ‡
-2019-2020,La Liga,15,Betis,38,10,11,17,48,60,-12,41,"35,969",Loren MorÃ³n - 10,Joel Robles
-2019-2020,La Liga,16,AlavÃ©s,38,10,9,19,34,59,-25,39,"12,177","Lucas PÃ©rez, Joselu - 11",Fernando Pacheco
-2019-2020,La Liga,17,Celta Vigo,38,7,16,15,37,49,-12,37,"11,995",Iago Aspas - 14,RubÃ©n Blanco
-2019-2020,La Liga,18,LeganÃ©s,38,8,12,18,30,51,-21,36,"7,539",Ã“scar RodrÃ­guez Arnaiz - 9,IvÃ¡n CuÃ©llar
-2019-2020,La Liga,19,Mallorca,38,9,6,23,40,65,-25,33,"10,877",Ante Budimir - 13,Manolo Reina
-2019-2020,La Liga,20,Espanyol,38,5,10,23,27,58,-31,25,"16,260","RaÃºl de TomÃ¡s, Wu Lei... - 4",Diego LÃ³pez
-2019-2020,League 1,1,Paris S-G,27,22,2,3,75,24,51,68,"47,517",Kylian MbappÃ© - 18,Keylor Navas
-2019-2020,League 1,2,Marseille,28,16,8,4,41,29,12,56,"52,805",DarÃ­o Benedetto - 11,Steve Mandanda
-2019-2020,League 1,3,Rennes,28,15,5,8,38,24,14,50,"25,893",M'Baye Niang - 10,Edouard Mendy
-2019-2020,League 1,4,Lille,28,15,4,9,35,27,8,49,"36,404",Victor Osimhen - 13,Mike Maignan
-2019-2020,League 1,5,Reims,28,10,11,7,26,21,5,41,"12,932",Boulaye Dia - 7,Predrag RajkoviÄ‡
-2019-2020,League 1,6,Nice,28,11,8,9,41,38,3,41,"19,225",Kasper Dolberg - 11,Walter BenÃ­tez
-2019-2020,League 1,7,Lyon,28,11,7,10,42,27,15,40,"47,299",Moussa DembÃ©lÃ© - 16,Anthony Lopes
-2019-2020,League 1,8,Montpellier,28,11,7,10,35,34,1,40,"14,147",Andy Delort - 9,GerÃ³nimo Rulli
-2019-2020,League 1,9,Monaco,28,11,7,10,44,44,0,40,"6,451",Wissam Ben Yedder - 18,Benjamin Lecomte
-2019-2020,League 1,10,Strasbourg,27,11,5,11,32,32,0,38,"24,985","Adrien Thomasson, Ludovic Ajorque - 8",Matz Sels
-2019-2020,League 1,11,Angers,28,11,6,11,28,33,-5,39,"9,825",Rachid Alioui - 6,Ludovic Butelle
-2019-2020,League 1,12,Bordeaux,28,9,10,9,40,34,6,37,"23,430",Jimmy Briand - 7,BenoÃ®t Costil
-2019-2020,League 1,13,Nantes,28,11,4,13,28,31,-3,37,"24,635","Ludovic Blas, Moses Simon - 5",Alban Lafont
-2019-2020,League 1,14,Brest,28,8,10,10,34,37,-3,34,"13,713",Irvin Cardona - 6,Gautier Larsonneur
-2019-2020,League 1,15,Metz,28,8,10,10,27,35,-8,34,"16,583",Habib Diallo - 12,Alexandre Oukidja
-2019-2020,League 1,16,Dijon,28,7,9,12,27,37,-10,30,"12,707",Mama Samba BaldÃ© - 6,Alfred Gomis
-2019-2020,League 1,17,Saint-Ã‰tienne,28,8,6,14,29,45,-16,30,"23,205",Denis Bouanga - 10,StÃ©phane Ruffier
-2019-2020,League 1,18,NÃ®mes,28,7,6,15,29,44,-15,27,"12,555",Romain Philippoteaux - 5,Paul Bernardoni
-2019-2020,League 1,19,Amiens,28,4,11,13,31,50,-19,23,"11,616",Sehrou Guirassy - 9,RÃ©gis Gurtner
-2019-2020,League 1,20,Toulouse,28,3,4,21,22,58,-36,13,"14,200",Efthimis Koulouris - 4,Baptiste Reynet
-2019-2020,EPL,1,Liverpool,38,32,3,3,85,33,52,99,"41,955",Mohamed Salah - 19,Alisson
-2019-2020,EPL,2,Manchester City,38,26,3,9,102,35,67,81,"37,097",Raheem Sterling - 20,Ederson
-2019-2020,EPL,3,Manchester Utd,38,18,12,8,66,36,30,66,"57,415","Marcus Rashford, Anthony Martial - 17",David de Gea
-2019-2020,EPL,4,Chelsea,38,20,6,12,69,54,15,66,"32,023",Tammy Abraham - 15,Kepa Arrizabalaga
-2019-2020,EPL,5,Leicester City,38,18,8,12,67,41,26,62,"25,312",Jamie Vardy - 23,Kasper Schmeichel
-2019-2020,EPL,6,Tottenham,38,16,11,11,61,47,14,59,"43,757",Harry Kane - 18,Hugo Lloris
-2019-2020,EPL,7,Wolves,38,15,14,9,51,40,11,59,"24,758",RaÃºl JimÃ©nez - 17,Rui PatrÃ­cio
-2019-2020,EPL,8,Arsenal,38,14,14,10,56,48,8,56,"47,589",Pierre-Emerick Aubameyang - 22,Bernd Leno
-2019-2020,EPL,9,Sheffield Utd,38,14,12,12,39,39,0,54,"24,370","Oliver McBurnie, Lys Mousset - 6",Dean Henderson
-2019-2020,EPL,10,Burnley,38,15,9,14,43,50,-7,54,"15,995",Chris Wood - 14,Nick Pope
-2019-2020,EPL,11,Southampton,38,15,7,16,51,60,-9,52,"23,428",Danny Ings - 22,Alex McCarthy
-2019-2020,EPL,12,Everton,38,13,10,15,44,56,-12,49,"28,848","Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford
-2019-2020,EPL,13,Newcastle Utd,38,11,11,16,38,58,-20,44,"35,551",Jonjo Shelvey - 6,Martin DÃºbravka
-2019-2020,EPL,14,Crystal Palace,38,11,10,17,31,50,-19,43,"19,784",Jordan Ayew - 9,Vicente Guaita
-2019-2020,EPL,15,Brighton,38,9,14,15,39,54,-15,41,"22,369",Neal Maupay - 10,Mathew Ryan
-2019-2020,EPL,16,West Ham,38,10,9,19,49,62,-13,39,"44,155",Michail Antonio - 10,Åukasz FabiaÅ„ski
-2019-2020,EPL,17,Aston Villa,38,9,8,21,41,67,-26,35,"28,505",Jack Grealish - 8,Tom Heaton
-2019-2020,EPL,18,Bournemouth,38,9,7,22,40,65,-25,34,"7,745",Callum Wilson - 8,Aaron Ramsdale
-2019-2020,EPL,19,Watford,38,8,10,20,36,64,-28,34,"15,353",Troy Deeney - 10,Ben Foster
-2019-2020,EPL,20,Norwich City,38,5,6,27,26,75,-49,21,"19,913",Teemu Pukki - 11,Tim Krul
-2019-2020,Serie A,1,Juventus,38,26,5,7,76,43,33,83,"25,102",Cristiano Ronaldo - 31,Wojciech SzczÄ™sny
-2019-2020,Serie A,2,Inter,38,24,10,4,81,36,45,82,"41,558",Romelu Lukaku - 23,Samir HandanoviÄ‡
-2019-2020,Serie A,3,Atalanta,38,23,9,6,98,48,50,78,"11,167","Luis Muriel, DuvÃ¡n Zapata - 18",Pierluigi Gollini
-2019-2020,Serie A,4,Lazio,38,24,6,8,79,42,37,78,"26,363",Ciro Immobile - 36,Thomas Strakosha
-2019-2020,Serie A,5,Roma,38,21,7,10,77,51,26,70,"26,956",Edin DÅ¾eko - 16,Pau LÃ³pez
-2019-2020,Serie A,6,Milan,38,19,9,10,63,46,17,66,"34,078",Ante RebiÄ‡ - 11,Gianluigi Donnarumma
-2019-2020,Serie A,7,Napoli,38,18,8,12,61,50,11,62,"21,622",Arkadiusz Milik - 11,Alex Meret
-2019-2020,Serie A,8,Sassuolo,38,14,9,15,69,63,6,51,"7,704",Francesco Caputo - 21,Andrea Consigli
-2019-2020,Serie A,9,Hellas Verona,38,12,13,13,47,51,-4,49,"11,248",Samuel Di Carmine - 8,Marco Silvestri
-2019-2020,Serie A,10,Fiorentina,38,12,13,13,51,48,3,49,"22,486",Federico Chiesa - 11,BartÅ‚omiej DrÄ…gowski
-2019-2020,Serie A,11,Parma,38,14,7,17,56,57,-1,49,"10,245",Andreas Cornelius - 12,Luigi Sepe
-2019-2020,Serie A,12,Bologna,38,12,11,15,52,65,-13,47,"15,774",Musa Barrow - 9,Åukasz Skorupski
-2019-2020,Serie A,13,Udinese,38,12,9,17,37,51,-14,45,"13,841",Kevin Lasagna - 10,Juan Musso
-2019-2020,Serie A,14,Cagliari,38,11,12,15,52,56,-4,45,"10,728",JoÃ£o Pedro - 18,Robin Olsen
-2019-2020,Serie A,15,Sampdoria,38,12,6,20,48,65,-17,42,"13,700","Manolo Gabbiadini, Fabio Quagliarella - 11",Emil Audero
-2019-2020,Serie A,16,Torino,38,11,7,20,46,68,-22,40,"13,338",Andrea Belotti - 16,Salvatore Sirigu
-2019-2020,Serie A,17,Genoa,38,10,9,19,47,73,-26,39,"14,016",Goran Pandev - 9,Mattia Perin
-2019-2020,Serie A,18,Lecce,38,9,8,21,52,85,-33,35,"15,939",Marco Mancosu - 14,Gabriel
-2019-2020,Serie A,19,Brescia,38,6,7,25,35,79,-44,25,"10,050","Ernesto Torregrossa, Alfredo Donnarumma - 7",Jesse Joronen
-2019-2020,Serie A,20,SPAL,38,5,5,28,27,77,-50,20,"8,241",Andrea Petagna - 12,Etrit Berisha
+Season,League,Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper,Winner
+2017-2018,Bundesliga,1,Bayern Munich,34,27,3,4,92,28,64,84,"75,000",Robert Lewandowski - 29,Sven Ulreich,Champion
+2017-2018,Bundesliga,2,Schalke 04,34,18,9,7,53,37,16,63,"61,197",Guido Burgstaller - 11,Ralf FÃ¤hrmann,
+2017-2018,Bundesliga,3,Hoffenheim,34,15,10,9,66,48,18,55,"28,716",Mark Uth - 14,Oliver Baumann,
+2017-2018,Bundesliga,4,Dortmund,34,15,10,9,64,47,17,55,"79,496",Pierre-Emerick Aubameyang - 13,Roman BÃ¼rki,
+2017-2018,Bundesliga,5,Leverkusen,34,15,10,9,58,44,14,55,"28,415",Kevin Volland - 14,Bernd Leno,
+2017-2018,Bundesliga,6,RB Leipzig,34,15,8,11,57,53,4,53,"39,397",Timo Werner - 13,PÃ©ter GulÃ¡csi,
+2017-2018,Bundesliga,7,Stuttgart,34,15,6,13,36,36,0,51,"56,045",Mario GÃ³mez - 8,Ron-Robert Zieler,
+2017-2018,Bundesliga,8,Eint Frankfurt,34,14,7,13,45,45,0,49,"49,159",SÃ©bastien Haller - 9,LukÃ¡Å¡ HrÃ¡deckÃ½,
+2017-2018,Bundesliga,9,M'Gladbach,34,13,8,13,47,52,-5,47,"50,986",Thorgan Hazard - 10,Yann Sommer,
+2017-2018,Bundesliga,10,Hertha BSC,34,10,13,11,43,46,-3,43,"45,319",Salomon Kalou - 12,Rune Jarstein,
+2017-2018,Bundesliga,11,Werder Bremen,34,10,12,12,37,40,-3,42,"38,726",Max Kruse - 6,JiÅ™Ã­ Pavlenka,
+2017-2018,Bundesliga,12,Augsburg,34,10,11,13,43,46,-3,41,"28,238",Michael Gregoritsch - 13,Marwin Hitz,
+2017-2018,Bundesliga,13,Hannover 96,34,10,9,15,44,54,-10,39,"42,706",Niclas FÃ¼llkrug - 14,Philipp Tschauner,
+2017-2018,Bundesliga,14,Mainz 05,34,9,9,16,38,52,-14,36,"28,766",Yoshinori MutÅ - 8,Robin Zentner,
+2017-2018,Bundesliga,15,Freiburg,34,8,12,14,32,56,-24,36,"23,894",Nils Petersen - 15,Alexander Schwolow,
+2017-2018,Bundesliga,16,Wolfsburg,34,6,15,13,36,48,-12,33,"25,712",Daniel Didavi - 9,Koen Casteels,
+2017-2018,Bundesliga,17,Hamburger SV,34,8,7,19,29,53,-24,31,"50,656",Lewis Holtby - 6,Christian Mathenia,
+2017-2018,Bundesliga,18,KÃ¶ln,34,5,7,22,35,70,-35,22,"48,776","Leonardo Bittencourt, Simon Terodde - 5",Timo Horn,
+2017-2018,La Liga,1,Barcelona,38,28,9,1,99,29,70,93,"66,603",Lionel Messi - 34,Marc-AndrÃ© ter Stegen,Champion
+2017-2018,La Liga,2,AtlÃ©tico Madrid,38,23,10,5,58,22,36,79,"55,483",Antoine Griezmann - 19,Jan Oblak,
+2017-2018,La Liga,3,Real Madrid,38,22,10,6,94,44,50,76,"66,161",Cristiano Ronaldo - 26,Keylor Navas,
+2017-2018,La Liga,4,Valencia,38,22,7,9,65,38,27,73,"38,657",Rodrigo - 16,Neto,
+2017-2018,La Liga,5,Villarreal,38,18,7,13,57,50,7,61,"16,731",Carlos Bacca - 15,Sergio Asenjo,
+2017-2018,La Liga,6,Betis,38,18,6,14,60,61,-1,60,"46,711",Sergio LeÃ³n - 11,Antonio AdÃ¡n,
+2017-2018,La Liga,7,Sevilla,38,17,7,14,49,58,-9,58,"33,045",Wissam Ben Yedder - 9,Sergio Rico,
+2017-2018,La Liga,8,Getafe,38,15,10,13,42,33,9,55,"10,318",Ãngel RodrÃ­guez - 13,Vicente Guaita,
+2017-2018,La Liga,9,Eibar,38,14,9,15,44,50,-6,51,"5,338","Kike, Charles - 8",Marko DmitroviÄ‡,
+2017-2018,La Liga,10,Girona,38,14,9,15,50,59,-9,51,"10,330",Cristhian Stuani - 21,Yassine Bounou,
+2017-2018,La Liga,11,Espanyol,38,12,13,13,36,42,-6,49,"17,768",Gerard Moreno - 16,Pau LÃ³pez,
+2017-2018,La Liga,12,Real Sociedad,38,14,7,17,66,59,7,49,"19,736",Willian JosÃ© - 15,GerÃ³nimo Rulli,
+2017-2018,La Liga,13,Celta Vigo,38,13,10,15,59,60,-1,49,"15,683",Iago Aspas - 22,RubÃ©n Blanco,
+2017-2018,La Liga,14,AlavÃ©s,38,15,2,21,40,50,-10,47,"16,819",Munir El Haddadi - 10,Fernando Pacheco,
+2017-2018,La Liga,15,Levante,38,11,13,14,44,58,-14,46,"17,927",JosÃ© Luis Morales - 10,Oier OlazÃ¡bal,
+2017-2018,La Liga,16,Athletic Club,38,10,13,15,41,49,-8,43,"37,325",RaÃºl GarcÃ­a - 10,Kepa Arrizabalaga,
+2017-2018,La Liga,17,LeganÃ©s,38,12,7,19,34,51,-17,43,"9,539",Gabriel - 5,IvÃ¡n CuÃ©llar,
+2017-2018,La Liga,18,La CoruÃ±a,38,6,11,21,38,76,-38,29,"20,612",AdriÃ¡n LÃ³pez - 9,RubÃ©n,
+2017-2018,La Liga,19,Las Palmas,38,5,7,26,24,74,-50,22,"16,156",Jonathan Calleri - 9,Leandro Chichizola,
+2017-2018,La Liga,20,MÃ¡laga,38,5,5,28,24,61,-37,20,"20,420",Diego RolÃ¡n - 5,Roberto,
+2017-2018,League 1,1,Paris S-G,38,29,6,3,108,29,79,93,"46,929",Edinson Cavani - 28,Alphonse Areola,Champion
+2017-2018,League 1,2,Monaco,38,24,8,6,85,45,40,80,"9,243",Radamel Falcao - 18,Danijel SubaÅ¡iÄ‡,
+2017-2018,League 1,3,Lyon,38,23,9,6,87,43,44,78,"46,005",Memphis Depay - 19,Anthony Lopes,
+2017-2018,League 1,4,Marseille,38,22,11,5,80,47,33,77,"46,040",Florian Thauvin - 22,Steve Mandanda,
+2017-2018,League 1,5,Rennes,38,16,10,12,50,44,6,58,"23,111",Benjamin Bourigeaud - 10,TomÃ¡Å¡ Koubek,
+2017-2018,League 1,6,Bordeaux,38,16,7,15,53,48,5,55,"26,470",Malcom - 12,BenoÃ®t Costil,
+2017-2018,League 1,7,Saint-Ã‰tienne,38,15,10,13,47,50,-3,55,"28,142","Jonathan Bamba, RÃ©my Cabella... - 7",StÃ©phane Ruffier,
+2017-2018,League 1,8,Nice,38,15,9,14,53,52,1,54,"22,876",Mario Balotelli - 18,Walter BenÃ­tez,
+2017-2018,League 1,9,Nantes,38,14,10,14,36,41,-5,52,"24,559",Emiliano Sala - 12,Ciprian TÄƒtÄƒruÈ™anu,
+2017-2018,League 1,10,Montpellier,38,11,18,9,36,33,3,51,"13,458",Giovanni Sio - 10,Benjamin Lecomte,
+2017-2018,League 1,11,Dijon,38,13,9,16,55,73,-18,48,"12,228",JÃºlio Tavares - 12,Baptiste Reynet,
+2017-2018,League 1,12,Guingamp,38,12,11,15,48,59,-11,47,"14,506",Jimmy Briand - 11,Karl-Johan Johnsson,
+2017-2018,League 1,13,Amiens,38,12,9,17,37,42,-5,45,"9,644",Moussa KonatÃ© - 13,RÃ©gis Gurtner,
+2017-2018,League 1,14,Angers,38,9,14,15,42,52,-10,41,"11,062",Karl Toko Ekambi - 17,Ludovic Butelle,
+2017-2018,League 1,15,Strasbourg,38,9,11,18,44,67,-23,38,"24,083",StÃ©phane Bahoken - 7,Bingourou Kamara,
+2017-2018,League 1,16,Caen,38,10,8,20,27,52,-25,38,"17,188",Ivan Santini - 11,RÃ©my Vercoutre,
+2017-2018,League 1,17,Lille,38,10,8,20,41,67,-26,38,"31,453",Nicolas PÃ©pÃ© - 13,Mike Maignan,
+2017-2018,League 1,18,Toulouse,38,9,10,19,38,54,-16,37,"16,924",Max Gradel - 8,Alban Lafont,
+2017-2018,League 1,19,Troyes,38,9,6,23,32,59,-27,33,"12,196",Adama Niane - 8,Mamadou Samassa,
+2017-2018,League 1,20,Metz,38,6,8,24,34,76,-42,26,"14,839",Nolan Roux - 15,Eiji Kawashima,
+2017-2018,EPL,1,Manchester City,38,32,4,2,106,27,79,100,"54,070",Sergio AgÃ¼ero - 21,Ederson,Champion
+2017-2018,EPL,2,Manchester Utd,38,25,6,7,68,28,40,81,"74,976",Romelu Lukaku - 16,David de Gea,
+2017-2018,EPL,3,Tottenham,38,23,8,7,74,36,38,77,"67,953",Harry Kane - 30,Hugo Lloris,
+2017-2018,EPL,4,Liverpool,38,21,12,5,84,38,46,75,"53,049",Mohamed Salah - 32,"Loris Karius, Simon Mignolet",
+2017-2018,EPL,5,Chelsea,38,21,7,10,62,38,24,70,"41,282",Eden Hazard - 12,Thibaut Courtois,
+2017-2018,EPL,6,Arsenal,38,19,6,13,74,51,23,63,"59,323",Alexandre Lacazette - 14,Petr ÄŒech,
+2017-2018,EPL,7,Burnley,38,14,12,12,36,39,-3,54,"20,688",Chris Wood - 10,Nick Pope,
+2017-2018,EPL,8,Everton,38,13,10,15,44,58,-14,49,"38,797",Wayne Rooney - 10,Jordan Pickford,
+2017-2018,EPL,9,Leicester City,38,12,11,15,56,60,-4,47,"31,583",Jamie Vardy - 20,Kasper Schmeichel,
+2017-2018,EPL,10,Newcastle Utd,38,12,8,18,39,47,-8,44,"51,992",Ayoze PÃ©rez - 8,Rob Elliot,
+2017-2018,EPL,11,Crystal Palace,38,11,11,16,45,55,-10,44,"25,063",Luka MilivojeviÄ‡ - 10,Wayne Hennessey,
+2017-2018,EPL,12,Bournemouth,38,11,11,16,45,61,-16,44,"10,641","Callum Wilson, Joshua King - 8",Asmir BegoviÄ‡,
+2017-2018,EPL,13,West Ham,38,10,12,16,48,68,-20,42,"56,885",Marko ArnautoviÄ‡ - 11,"Joe Hart, AdriÃ¡n",
+2017-2018,EPL,14,Watford,38,11,8,19,44,64,-20,41,"20,231",Abdoulaye DoucourÃ© - 7,Heurelho Gomes,
+2017-2018,EPL,15,Brighton,38,9,13,16,34,54,-20,40,"30,403",Glenn Murray - 12,Mathew Ryan,
+2017-2018,EPL,16,Huddersfield,38,9,10,19,28,58,-30,37,"24,040",Steve MouniÃ© - 7,Jonas LÃ¶ssl,
+2017-2018,EPL,17,Southampton,38,7,15,16,37,56,-19,36,"30,794",Charlie Austin - 7,Fraser Forster,
+2017-2018,EPL,18,Swansea City,38,8,9,21,28,56,-28,33,"20,623",Jordan Ayew - 7,Åukasz FabiaÅ„ski,
+2017-2018,EPL,19,Stoke City,38,7,12,19,35,68,-33,33,"29,280",Xherdan Shaqiri - 8,Jack Butland,
+2017-2018,EPL,20,West Brom,38,6,13,19,31,56,-25,31,"24,520","SalomÃ³n RondÃ³n, Jay Rodriguez - 7",Ben Foster,
+2017-2018,Serie A,1,Juventus,38,30,5,3,86,24,62,95,"39,316",Paulo Dybala - 22,Gianluigi Buffon,Champion
+2017-2018,Serie A,2,Napoli,38,28,7,3,77,29,48,91,"43,050",Dries Mertens - 18,Pepe Reina,
+2017-2018,Serie A,3,Roma,38,23,8,7,61,28,33,77,"37,450",Edin DÅ¾eko - 16,Alisson,
+2017-2018,Serie A,4,Inter,38,20,12,6,66,30,36,72,"57,529",Mauro Icardi - 29,Samir HandanoviÄ‡,
+2017-2018,Serie A,5,Lazio,38,21,9,8,89,49,40,72,"30,990",Ciro Immobile - 29,Thomas Strakosha,
+2017-2018,Serie A,6,Milan,38,18,10,10,56,42,14,64,"52,690",Patrick Cutrone - 10,Gianluigi Donnarumma,
+2017-2018,Serie A,7,Atalanta,38,16,12,10,57,39,18,60,"17,921",Josip IliÄiÄ‡ - 11,Etrit Berisha,
+2017-2018,Serie A,8,Fiorentina,38,16,9,13,54,46,8,57,"26,092",Giovanni Simeone - 14,Marco Sportiello,
+2017-2018,Serie A,9,Torino,38,13,15,10,54,46,8,54,"18,596",Iago Falque - 12,Salvatore Sirigu,
+2017-2018,Serie A,10,Sampdoria,38,16,6,16,56,60,-4,54,"20,156",Fabio Quagliarella - 19,Emiliano Viviano,
+2017-2018,Serie A,11,Sassuolo,38,11,10,17,29,59,-30,43,"11,237",Matteo Politano - 10,Andrea Consigli,
+2017-2018,Serie A,12,Genoa,38,11,8,19,33,43,-10,41,"20,941",Gianluca Lapadula - 6,Mattia Perin,
+2017-2018,Serie A,13,Chievo,38,10,10,18,36,59,-23,40,"12,540",Roberto Inglese - 12,Stefano Sorrentino,
+2017-2018,Serie A,14,Udinese,38,12,4,22,48,63,-15,40,"17,906",Kevin Lasagna - 12,Albano Bizzarri,
+2017-2018,Serie A,15,Bologna,38,11,6,21,40,52,-12,39,"20,903",Simone Verdi - 10,Antonio Mirante,
+2017-2018,Serie A,16,Cagliari,38,11,6,21,33,61,-28,39,"14,685",Leonardo Pavoletti - 11,Alessio Cragno,
+2017-2018,Serie A,17,SPAL,38,8,14,16,39,59,-20,38,"12,067",Mirco Antenucci - 11,Alfred Gomis,
+2017-2018,Serie A,18,Crotone,38,9,8,21,40,66,-26,35,"10,581","Simeon Nwankwo, Marcello Trotta - 7",Alex Cordaz,
+2017-2018,Serie A,19,Hellas Verona,38,7,4,27,30,78,-48,25,"17,333","Moise Kean, Giampaolo Pazzini - 4",NÃ­colas Andrade,
+2017-2018,Serie A,20,Benevento,38,6,3,29,33,84,-51,21,"12,132",Cheick DiabatÃ© - 8,Christian Puggioni,
+2018-2019,Bundesliga,1,Bayern Munich,34,24,6,4,88,32,56,78,"75,000",Robert Lewandowski - 22,Manuel Neuer,Champion
+2018-2019,Bundesliga,2,Dortmund,34,23,7,4,81,44,37,76,"80,841",Paco AlcÃ¡cer - 18,Roman BÃ¼rki,
+2018-2019,Bundesliga,3,RB Leipzig,34,19,9,6,63,29,34,66,"38,380",Timo Werner - 16,PÃ©ter GulÃ¡csi,
+2018-2019,Bundesliga,4,Leverkusen,34,18,4,12,69,52,17,58,"27,990",Kai Havertz - 17,LukÃ¡Å¡ HrÃ¡deckÃ½,
+2018-2019,Bundesliga,5,M'Gladbach,34,16,7,11,55,42,13,55,"49,668",Alassane PlÃ©a - 12,Yann Sommer,
+2018-2019,Bundesliga,6,Wolfsburg,34,16,7,11,62,50,12,55,"24,479",Wout Weghorst - 17,Koen Casteels,
+2018-2019,Bundesliga,7,Eint Frankfurt,34,15,9,10,60,48,12,54,"49,794",Luka JoviÄ‡ - 17,Kevin Trapp,
+2018-2019,Bundesliga,8,Werder Bremen,34,14,11,9,58,49,9,53,"41,403",Max Kruse - 11,JiÅ™Ã­ Pavlenka,
+2018-2019,Bundesliga,9,Hoffenheim,34,13,12,9,70,52,18,51,"28,456",Andrej KramariÄ‡ - 17,Oliver Baumann,
+2018-2019,Bundesliga,10,DÃ¼sseldorf,34,13,5,16,49,65,-16,44,"43,869","Dodi Lukebakio, Benito Raman - 10",Michael Rensing,
+2018-2019,Bundesliga,11,Hertha BSC,34,11,10,13,49,57,-8,43,"49,258",Ondrej Duda - 11,Rune Jarstein,
+2018-2019,Bundesliga,12,Mainz 05,34,12,7,15,46,57,-11,43,"26,246",Jean-Philippe Mateta - 14,Florian MÃ¼ller,
+2018-2019,Bundesliga,13,Freiburg,34,8,12,14,46,61,-15,36,"23,894",Nils Petersen - 10,Alexander Schwolow,
+2018-2019,Bundesliga,14,Schalke 04,34,8,9,17,37,55,-18,33,"60,941",Daniel Caligiuri - 7,Alexander NÃ¼bel,
+2018-2019,Bundesliga,15,Augsburg,34,8,8,18,51,71,-20,32,"28,623",AlfreÃ° Finnbogason - 10,Gregor Kobel,
+2018-2019,Bundesliga,16,Stuttgart,34,7,7,20,32,70,-38,28,"54,577",Mario GÃ³mez - 7,Ron-Robert Zieler,
+2018-2019,Bundesliga,17,Hannover 96,34,5,6,23,31,71,-40,21,"38,365",Hendrik Weydandt - 6,Michael Esser,
+2018-2019,Bundesliga,18,NÃ¼rnberg,34,3,10,21,26,68,-42,19,"40,372","Mikael Ishak, Hanno Behrens - 4",Christian Mathenia,
+2018-2019,La Liga,1,Barcelona,38,26,9,3,90,36,54,87,"76,104",Lionel Messi - 36,Marc-AndrÃ© ter Stegen,Champion
+2018-2019,La Liga,2,AtlÃ©tico Madrid,38,22,10,6,55,29,26,76,"56,216",Antoine Griezmann - 15,Jan Oblak,
+2018-2019,La Liga,3,Real Madrid,38,21,5,12,63,46,17,68,"61,040",Karim Benzema - 21,Thibaut Courtois,
+2018-2019,La Liga,4,Valencia,38,15,16,7,51,35,16,61,"39,504",Daniel Parejo - 9,Neto,
+2018-2019,La Liga,5,Getafe,38,15,14,9,48,35,13,59,"11,000","Jaime Mata, Jorge Molina - 14",David Soria,
+2018-2019,La Liga,6,Sevilla,38,17,8,13,62,47,15,59,"35,993",Wissam Ben Yedder - 18,TomÃ¡Å¡ VaclÃ­k,
+2018-2019,La Liga,7,Espanyol,38,14,11,13,48,50,-2,53,"19,388",Borja Iglesias - 17,Diego LÃ³pez,
+2018-2019,La Liga,8,Athletic Club,38,13,14,11,41,45,-4,53,"40,664",IÃ±aki Williams - 12,Iago HerrerÃ­n,
+2018-2019,La Liga,9,Real Sociedad,38,13,11,14,45,46,-1,50,"22,310",Mikel Oyarzabal - 13,GerÃ³nimo Rulli,
+2018-2019,La Liga,10,Betis,38,14,8,16,44,52,-8,50,"44,525",Giovani Lo Celso - 9,Pau LÃ³pez,
+2018-2019,La Liga,11,AlavÃ©s,38,13,11,14,39,50,-11,50,"17,295",Jonathan Calleri - 9,Fernando Pacheco,
+2018-2019,La Liga,12,Eibar,38,11,14,13,46,50,-4,47,"4,896",Charles - 14,Marko DmitroviÄ‡,
+2018-2019,La Liga,13,LeganÃ©s,38,11,12,15,37,43,-6,45,"10,416",Youssef En-Nesyri - 9,IvÃ¡n CuÃ©llar,
+2018-2019,La Liga,14,Villarreal,38,10,14,14,49,52,-3,44,"16,732",Karl Toko Ekambi - 10,Sergio Asenjo,
+2018-2019,La Liga,15,Levante,38,11,11,16,59,66,-7,44,"20,216",Roger MartÃ­ - 13,Oier OlazÃ¡bal,
+2018-2019,La Liga,16,Valladolid,38,10,11,17,32,51,-19,41,"18,992",Enes Ãœnal - 6,Jordi Masip,
+2018-2019,La Liga,17,Celta Vigo,38,10,11,17,53,62,-9,41,"17,603",Iago Aspas - 20,RubÃ©n Blanco,
+2018-2019,La Liga,18,Girona,38,9,10,19,37,53,-16,37,"10,948",Cristhian Stuani - 19,Yassine Bounou,
+2018-2019,La Liga,19,Huesca,38,7,12,19,43,65,-22,33,"6,605",Ezequiel Ãvila - 10,Roberto SantamarÃ­a,
+2018-2019,La Liga,20,Rayo Vallecano,38,8,8,22,41,70,-29,32,"11,928",RaÃºl de TomÃ¡s - 14,Stole Dimitrievski,
+2018-2019,League 1,1,Paris S-G,38,29,4,5,105,35,70,91,"46,911",Kylian MbappÃ© - 33,Alphonse Areola,Champion
+2018-2019,League 1,2,Lille,38,22,9,7,68,33,35,75,"34,079",Nicolas PÃ©pÃ© - 22,Mike Maignan,
+2018-2019,League 1,3,Lyon,38,21,9,8,70,47,23,72,"49,079",Moussa DembÃ©lÃ© - 15,Anthony Lopes,
+2018-2019,League 1,4,Saint-Ã‰tienne,38,19,9,10,59,41,18,66,"28,400",Wahbi Khazri - 13,StÃ©phane Ruffier,
+2018-2019,League 1,5,Marseille,38,18,7,13,60,52,8,61,"50,140",Florian Thauvin - 16,Steve Mandanda,
+2018-2019,League 1,6,Montpellier,38,15,14,9,53,42,11,59,"13,829",Andy Delort - 14,Benjamin Lecomte,
+2018-2019,League 1,7,Nice,38,15,11,12,30,35,-5,56,"19,126",Youcef Attal - 6,Walter BenÃ­tez,
+2018-2019,League 1,8,Reims,38,13,16,9,39,42,-3,55,"14,342",Remi Oudin - 10,Edouard Mendy,
+2018-2019,League 1,9,NÃ®mes,38,15,8,15,57,58,-1,53,"13,994","Renaud Ripart, Denis Bouanga - 8",Paul Bernardoni,
+2018-2019,League 1,10,Rennes,38,13,13,12,55,52,3,52,"23,675",M'Baye Niang - 11,TomÃ¡Å¡ Koubek,
+2018-2019,League 1,11,Strasbourg,38,11,16,11,58,48,10,49,"25,216","Ludovic Ajorque, Lebo Mothiba - 9",Matz Sels,
+2018-2019,League 1,12,Nantes,38,13,9,16,48,48,0,48,"25,185",Emiliano Sala - 12,Ciprian TÄƒtÄƒruÈ™anu,
+2018-2019,League 1,13,Angers,38,10,16,12,44,49,-5,46,"11,189",StÃ©phane Bahoken - 11,Ludovic Butelle,
+2018-2019,League 1,14,Bordeaux,38,10,11,17,34,42,-8,41,"20,838",FranÃ§ois Kamano - 10,BenoÃ®t Costil,
+2018-2019,League 1,15,Amiens,38,9,11,18,31,52,-21,38,"11,043",Moussa KonatÃ© - 7,RÃ©gis Gurtner,
+2018-2019,League 1,16,Toulouse,38,8,14,16,35,57,-22,38,"16,224",Max Gradel - 11,Baptiste Reynet,
+2018-2019,League 1,17,Monaco,38,8,12,18,38,57,-19,36,"8,447",Radamel Falcao - 15,Diego Benaglio,
+2018-2019,League 1,18,Dijon,38,9,7,22,31,60,-29,34,"13,044",JÃºlio Tavares - 5,RÃºnar Alex RÃºnarsson,
+2018-2019,League 1,19,Caen,38,7,12,19,29,54,-25,33,"16,654","Casimir Ninga, Enzo Crivelli - 6",Brice Samba,
+2018-2019,League 1,20,Guingamp,38,5,12,21,28,68,-40,27,"14,731",Marcus Thuram - 9,Marc-AurÃ¨le Caillard,
+2018-2019,EPL,1,Manchester City,38,32,2,4,95,23,72,98,"54,130",Sergio AgÃ¼ero - 21,Ederson,Champion
+2018-2019,EPL,2,Liverpool,38,30,7,1,89,22,67,97,"52,983","Sadio ManÃ©, Mohamed Salah - 22",Alisson,
+2018-2019,EPL,3,Chelsea,38,21,9,8,63,39,24,72,"40,437",Eden Hazard - 16,Kepa Arrizabalaga,
+2018-2019,EPL,4,Tottenham,38,23,2,13,67,39,28,71,"54,216",Harry Kane - 17,Hugo Lloris,
+2018-2019,EPL,5,Arsenal,38,21,7,10,73,51,22,70,"59,899",Pierre-Emerick Aubameyang - 22,Bernd Leno,
+2018-2019,EPL,6,Manchester Utd,38,19,9,10,65,54,11,66,"74,498",Paul Pogba - 13,David de Gea,
+2018-2019,EPL,7,Wolves,38,16,9,13,47,46,1,57,"31,030",RaÃºl JimÃ©nez - 13,Rui PatrÃ­cio,
+2018-2019,EPL,8,Everton,38,15,9,14,54,46,8,54,"39,043","Gylfi SigurÃ°sson, Richarlison - 13",Jordan Pickford,
+2018-2019,EPL,9,Leicester City,38,15,7,16,51,48,3,52,"31,851",Jamie Vardy - 18,Kasper Schmeichel,
+2018-2019,EPL,10,West Ham,38,15,7,16,52,55,-3,52,"58,336",Marko ArnautoviÄ‡ - 10,Åukasz FabiaÅ„ski,
+2018-2019,EPL,11,Watford,38,14,8,16,52,59,-7,50,"20,016",Gerard Deulofeu - 10,Ben Foster,
+2018-2019,EPL,12,Crystal Palace,38,14,7,17,51,53,-2,49,"25,455",Luka MilivojeviÄ‡ - 12,Vicente Guaita,
+2018-2019,EPL,13,Newcastle Utd,38,12,9,17,42,48,-6,45,"51,121",Ayoze PÃ©rez - 12,Martin DÃºbravka,
+2018-2019,EPL,14,Bournemouth,38,13,6,19,56,70,-14,45,"10,532",Callum Wilson - 14,Asmir BegoviÄ‡,
+2018-2019,EPL,15,Burnley,38,11,7,20,45,68,-23,40,"20,534",Ashley Barnes - 12,"Tom Heaton, Joe Hart",
+2018-2019,EPL,16,Southampton,38,9,12,17,45,65,-20,39,"30,139","James Ward-Prowse, Danny Ings - 7",Alex McCarthy,
+2018-2019,EPL,17,Brighton,38,9,9,20,35,60,-25,36,"30,426",Glenn Murray - 13,Mathew Ryan,
+2018-2019,EPL,18,Cardiff City,38,10,4,24,34,69,-35,34,"31,408","VÃ­ctor Camarasa, Bobby Reid - 5",Neil Etheridge,
+2018-2019,EPL,19,Fulham,38,7,5,26,34,81,-47,26,"24,371",Aleksandar MitroviÄ‡ - 11,Sergio Rico,
+2018-2019,EPL,20,Huddersfield,38,3,7,28,22,76,-54,16,"23,203","Aaron Mooy, Mathias JÃ¸rgensen... - 3",Jonas LÃ¶ssl,
+2018-2019,Serie A,1,Juventus,38,28,6,4,70,30,40,90,"37,799",Cristiano Ronaldo - 21,Wojciech SzczÄ™sny,Champion
+2018-2019,Serie A,2,Napoli,38,24,7,7,74,36,38,79,"29,003",Arkadiusz Milik - 17,David Ospina,
+2018-2019,Serie A,3,Atalanta,38,20,9,9,77,46,31,69,"18,301",DuvÃ¡n Zapata - 23,Pierluigi Gollini,
+2018-2019,Serie A,4,Inter,38,20,9,9,57,33,24,69,"57,405",Mauro Icardi - 11,Samir HandanoviÄ‡,
+2018-2019,Serie A,5,Milan,38,19,11,8,55,36,19,68,"54,651",Krzysztof PiÄ…tek - 9,Gianluigi Donnarumma,
+2018-2019,Serie A,6,Roma,38,18,12,8,66,48,18,66,"38,622",Stephan El Shaarawy - 11,Robin Olsen,
+2018-2019,Serie A,7,Torino,38,16,15,7,52,37,15,63,"21,323",Andrea Belotti - 15,Salvatore Sirigu,
+2018-2019,Serie A,8,Lazio,38,17,8,13,56,46,10,59,"33,997",Ciro Immobile - 15,Thomas Strakosha,
+2018-2019,Serie A,9,Sampdoria,38,15,8,15,60,51,9,53,"20,263",Fabio Quagliarella - 26,Emil Audero,
+2018-2019,Serie A,10,Bologna,38,11,11,16,48,56,-8,44,"21,237","Riccardo Orsolini, Federico Santander - 8",Åukasz Skorupski,
+2018-2019,Serie A,11,Sassuolo,38,9,16,13,53,60,-7,43,"12,369",Domenico Berardi - 8,Andrea Consigli,
+2018-2019,Serie A,12,Udinese,38,11,10,17,39,53,-14,43,"20,414",Rodrigo De Paul - 9,Juan Musso,
+2018-2019,Serie A,13,SPAL,38,11,9,18,44,56,-12,42,"14,745",Andrea Petagna - 16,Alfred Gomis,
+2018-2019,Serie A,14,Parma,38,10,11,17,41,61,-20,41,"16,522",Gervinho - 11,Luigi Sepe,
+2018-2019,Serie A,15,Cagliari,38,10,11,17,36,54,-18,41,"15,396",Leonardo Pavoletti - 16,Alessio Cragno,
+2018-2019,Serie A,16,Fiorentina,38,8,17,13,47,45,2,41,"31,178",Marco Benassi - 7,Alban Lafont,
+2018-2019,Serie A,17,Genoa,38,8,14,16,39,57,-18,38,"20,950",Krzysztof PiÄ…tek - 13,IonuÈ› Radu,
+2018-2019,Serie A,18,Empoli,38,10,8,20,51,70,-19,38,"9,620",Francesco Caputo - 16,Ivan Provedel,
+2018-2019,Serie A,19,Frosinone,38,5,10,23,29,69,-40,25,"12,656",Camillo Ciano - 7,Marco Sportiello,
+2018-2019,Serie A,20,Chievo,38,2,14,22,25,75,-50,17,"12,142",Mariusz StÄ™piÅ„ski - 6,Stefano Sorrentino,
+2019-2020,Bundesliga,1,Bayern Munich,34,26,4,4,100,32,68,82,"57,353",Robert Lewandowski - 34,Manuel Neuer,Champion
+2019-2020,Bundesliga,2,Dortmund,34,21,6,7,84,41,43,69,"57,297",Jadon Sancho - 17,Roman BÃ¼rki,
+2019-2020,Bundesliga,3,RB Leipzig,34,18,12,4,81,37,44,66,"28,819",Timo Werner - 28,PÃ©ter GulÃ¡csi,
+2019-2020,Bundesliga,4,M'Gladbach,34,20,5,9,66,40,26,65,"36,078","Marcus Thuram, Alassane PlÃ©a - 10",Yann Sommer,
+2019-2020,Bundesliga,5,Leverkusen,34,19,6,9,61,44,17,63,"21,236",Kai Havertz - 12,LukÃ¡Å¡ HrÃ¡deckÃ½,
+2019-2020,Bundesliga,6,Hoffenheim,34,15,7,12,53,53,0,52,"20,449",Andrej KramariÄ‡ - 12,Oliver Baumann,
+2019-2020,Bundesliga,7,Wolfsburg,34,13,10,11,48,46,2,49,"18,621",Wout Weghorst - 16,Koen Casteels,
+2019-2020,Bundesliga,8,Freiburg,34,13,9,12,48,47,1,48,"16,888",Nils Petersen - 11,Alexander Schwolow,
+2019-2020,Bundesliga,9,Eint Frankfurt,34,13,6,15,59,60,-1,45,"35,435",AndrÃ© Silva - 12,Kevin Trapp,
+2019-2020,Bundesliga,10,Hertha BSC,34,11,8,15,48,59,-11,41,"37,689","Dodi Lukebakio, Vedad IbiÅ¡eviÄ‡ - 7",Rune Jarstein,
+2019-2020,Bundesliga,11,Union Berlin,34,12,5,17,41,58,-17,41,"15,467",Sebastian Andersson - 12,RafaÅ‚ Gikiewicz,
+2019-2020,Bundesliga,12,Schalke 04,34,9,12,13,38,58,-20,39,"46,681",Suat Serdar - 7,Alexander NÃ¼bel,
+2019-2020,Bundesliga,13,Mainz 05,34,11,4,19,44,65,-21,37,"20,694",Robin Quaison - 13,Robin Zentner,
+2019-2020,Bundesliga,14,KÃ¶ln,34,10,6,18,51,69,-18,36,"35,094",Jhon CÃ³rdoba - 13,Timo Horn,
+2019-2020,Bundesliga,15,Augsburg,34,9,9,16,45,63,-18,36,"20,265",Florian Niederlechner - 13,TomÃ¡Å¡ Koubek,
+2019-2020,Bundesliga,16,Werder Bremen,34,8,7,19,42,69,-27,31,"26,413","Yuya Osako, Milot Rashica - 8",JiÅ™Ã­ Pavlenka,
+2019-2020,Bundesliga,17,DÃ¼sseldorf,34,6,12,16,36,67,-31,30,"30,581",Rouwen Hennings - 15,"Zack Steffen, Florian Kastenmeier",
+2019-2020,Bundesliga,18,Paderborn 07,34,4,8,22,37,74,-37,20,"11,038","Streli Mamba, Sven Michel... - 5",Leopold Zingerle,
+2019-2020,La Liga,1,Real Madrid,38,26,9,3,70,25,45,87,"45,833",Karim Benzema - 21,Thibaut Courtois,Champion
+2019-2020,La Liga,2,Barcelona,38,25,7,6,86,38,48,82,"54,223",Lionel Messi - 25,Marc-AndrÃ© ter Stegen,
+2019-2020,La Liga,3,AtlÃ©tico Madrid,38,18,16,4,51,27,24,70,"42,236",Ãlvaro Morata - 12,Jan Oblak,
+2019-2020,La Liga,4,Sevilla,38,19,13,6,54,34,20,70,"25,016",Lucas Ocampos - 14,TomÃ¡Å¡ VaclÃ­k,
+2019-2020,La Liga,5,Villarreal,38,18,6,14,63,49,14,60,"11,321",Gerard Moreno - 18,Sergio Asenjo,
+2019-2020,La Liga,6,Real Sociedad,38,16,8,14,56,48,8,56,"21,204",Willian JosÃ© - 11,Ãlex Remiro,
+2019-2020,La Liga,7,Granada,38,16,8,14,52,45,7,56,"11,174",Carlos FernÃ¡ndez - 10,Rui Silva,
+2019-2020,La Liga,8,Getafe,38,14,12,12,43,37,6,54,"8,000",Jaime Mata - 11,David Soria,
+2019-2020,La Liga,9,Valencia,38,14,11,13,46,53,-7,53,"29,658",Maxi GÃ³mez - 9,Jasper Cillessen,
+2019-2020,La Liga,10,Osasuna,38,13,13,12,46,54,-8,52,"11,453",Ezequiel Ãvila - 9,Sergio Herrera,
+2019-2020,La Liga,11,Athletic Club,38,13,12,13,41,38,3,51,"28,039",RaÃºl GarcÃ­a - 15,Unai SimÃ³n,
+2019-2020,La Liga,12,Levante,38,14,7,17,47,53,-6,49,"13,196",Roger MartÃ­ - 11,Aitor FernÃ¡ndez,
+2019-2020,La Liga,13,Valladolid,38,9,15,14,32,43,-11,42,"13,580",Sergi Guardiola - 8,Jordi Masip,
+2019-2020,La Liga,14,Eibar,38,11,9,18,39,56,-17,42,"4,151",FabiÃ¡n Orellana - 8,Marko DmitroviÄ‡,
+2019-2020,La Liga,15,Betis,38,10,11,17,48,60,-12,41,"35,969",Loren MorÃ³n - 10,Joel Robles,
+2019-2020,La Liga,16,AlavÃ©s,38,10,9,19,34,59,-25,39,"12,177","Lucas PÃ©rez, Joselu - 11",Fernando Pacheco,
+2019-2020,La Liga,17,Celta Vigo,38,7,16,15,37,49,-12,37,"11,995",Iago Aspas - 14,RubÃ©n Blanco,
+2019-2020,La Liga,18,LeganÃ©s,38,8,12,18,30,51,-21,36,"7,539",Ã“scar RodrÃ­guez Arnaiz - 9,IvÃ¡n CuÃ©llar,
+2019-2020,La Liga,19,Mallorca,38,9,6,23,40,65,-25,33,"10,877",Ante Budimir - 13,Manolo Reina,
+2019-2020,La Liga,20,Espanyol,38,5,10,23,27,58,-31,25,"16,260","RaÃºl de TomÃ¡s, Wu Lei... - 4",Diego LÃ³pez,
+2019-2020,League 1,1,Paris S-G,27,22,2,3,75,24,51,68,"47,517",Kylian MbappÃ© - 18,Keylor Navas,Champion
+2019-2020,League 1,2,Marseille,28,16,8,4,41,29,12,56,"52,805",DarÃ­o Benedetto - 11,Steve Mandanda,
+2019-2020,League 1,3,Rennes,28,15,5,8,38,24,14,50,"25,893",M'Baye Niang - 10,Edouard Mendy,
+2019-2020,League 1,4,Lille,28,15,4,9,35,27,8,49,"36,404",Victor Osimhen - 13,Mike Maignan,
+2019-2020,League 1,5,Reims,28,10,11,7,26,21,5,41,"12,932",Boulaye Dia - 7,Predrag RajkoviÄ‡,
+2019-2020,League 1,6,Nice,28,11,8,9,41,38,3,41,"19,225",Kasper Dolberg - 11,Walter BenÃ­tez,
+2019-2020,League 1,7,Lyon,28,11,7,10,42,27,15,40,"47,299",Moussa DembÃ©lÃ© - 16,Anthony Lopes,
+2019-2020,League 1,8,Montpellier,28,11,7,10,35,34,1,40,"14,147",Andy Delort - 9,GerÃ³nimo Rulli,
+2019-2020,League 1,9,Monaco,28,11,7,10,44,44,0,40,"6,451",Wissam Ben Yedder - 18,Benjamin Lecomte,
+2019-2020,League 1,10,Strasbourg,27,11,5,11,32,32,0,38,"24,985","Adrien Thomasson, Ludovic Ajorque - 8",Matz Sels,
+2019-2020,League 1,11,Angers,28,11,6,11,28,33,-5,39,"9,825",Rachid Alioui - 6,Ludovic Butelle,
+2019-2020,League 1,12,Bordeaux,28,9,10,9,40,34,6,37,"23,430",Jimmy Briand - 7,BenoÃ®t Costil,
+2019-2020,League 1,13,Nantes,28,11,4,13,28,31,-3,37,"24,635","Ludovic Blas, Moses Simon - 5",Alban Lafont,
+2019-2020,League 1,14,Brest,28,8,10,10,34,37,-3,34,"13,713",Irvin Cardona - 6,Gautier Larsonneur,
+2019-2020,League 1,15,Metz,28,8,10,10,27,35,-8,34,"16,583",Habib Diallo - 12,Alexandre Oukidja,
+2019-2020,League 1,16,Dijon,28,7,9,12,27,37,-10,30,"12,707",Mama Samba BaldÃ© - 6,Alfred Gomis,
+2019-2020,League 1,17,Saint-Ã‰tienne,28,8,6,14,29,45,-16,30,"23,205",Denis Bouanga - 10,StÃ©phane Ruffier,
+2019-2020,League 1,18,NÃ®mes,28,7,6,15,29,44,-15,27,"12,555",Romain Philippoteaux - 5,Paul Bernardoni,
+2019-2020,League 1,19,Amiens,28,4,11,13,31,50,-19,23,"11,616",Sehrou Guirassy - 9,RÃ©gis Gurtner,
+2019-2020,League 1,20,Toulouse,28,3,4,21,22,58,-36,13,"14,200",Efthimis Koulouris - 4,Baptiste Reynet,
+2019-2020,EPL,1,Liverpool,38,32,3,3,85,33,52,99,"41,955",Mohamed Salah - 19,Alisson,Champion
+2019-2020,EPL,2,Manchester City,38,26,3,9,102,35,67,81,"37,097",Raheem Sterling - 20,Ederson,
+2019-2020,EPL,3,Manchester Utd,38,18,12,8,66,36,30,66,"57,415","Marcus Rashford, Anthony Martial - 17",David de Gea,
+2019-2020,EPL,4,Chelsea,38,20,6,12,69,54,15,66,"32,023",Tammy Abraham - 15,Kepa Arrizabalaga,
+2019-2020,EPL,5,Leicester City,38,18,8,12,67,41,26,62,"25,312",Jamie Vardy - 23,Kasper Schmeichel,
+2019-2020,EPL,6,Tottenham,38,16,11,11,61,47,14,59,"43,757",Harry Kane - 18,Hugo Lloris,
+2019-2020,EPL,7,Wolves,38,15,14,9,51,40,11,59,"24,758",RaÃºl JimÃ©nez - 17,Rui PatrÃ­cio,
+2019-2020,EPL,8,Arsenal,38,14,14,10,56,48,8,56,"47,589",Pierre-Emerick Aubameyang - 22,Bernd Leno,
+2019-2020,EPL,9,Sheffield Utd,38,14,12,12,39,39,0,54,"24,370","Oliver McBurnie, Lys Mousset - 6",Dean Henderson,
+2019-2020,EPL,10,Burnley,38,15,9,14,43,50,-7,54,"15,995",Chris Wood - 14,Nick Pope,
+2019-2020,EPL,11,Southampton,38,15,7,16,51,60,-9,52,"23,428",Danny Ings - 22,Alex McCarthy,
+2019-2020,EPL,12,Everton,38,13,10,15,44,56,-12,49,"28,848","Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,
+2019-2020,EPL,13,Newcastle Utd,38,11,11,16,38,58,-20,44,"35,551",Jonjo Shelvey - 6,Martin DÃºbravka,
+2019-2020,EPL,14,Crystal Palace,38,11,10,17,31,50,-19,43,"19,784",Jordan Ayew - 9,Vicente Guaita,
+2019-2020,EPL,15,Brighton,38,9,14,15,39,54,-15,41,"22,369",Neal Maupay - 10,Mathew Ryan,
+2019-2020,EPL,16,West Ham,38,10,9,19,49,62,-13,39,"44,155",Michail Antonio - 10,Åukasz FabiaÅ„ski,
+2019-2020,EPL,17,Aston Villa,38,9,8,21,41,67,-26,35,"28,505",Jack Grealish - 8,Tom Heaton,
+2019-2020,EPL,18,Bournemouth,38,9,7,22,40,65,-25,34,"7,745",Callum Wilson - 8,Aaron Ramsdale,
+2019-2020,EPL,19,Watford,38,8,10,20,36,64,-28,34,"15,353",Troy Deeney - 10,Ben Foster,
+2019-2020,EPL,20,Norwich City,38,5,6,27,26,75,-49,21,"19,913",Teemu Pukki - 11,Tim Krul,
+2019-2020,Serie A,1,Juventus,38,26,5,7,76,43,33,83,"25,102",Cristiano Ronaldo - 31,Wojciech SzczÄ™sny,Champion
+2019-2020,Serie A,2,Inter,38,24,10,4,81,36,45,82,"41,558",Romelu Lukaku - 23,Samir HandanoviÄ‡,
+2019-2020,Serie A,3,Atalanta,38,23,9,6,98,48,50,78,"11,167","Luis Muriel, DuvÃ¡n Zapata - 18",Pierluigi Gollini,
+2019-2020,Serie A,4,Lazio,38,24,6,8,79,42,37,78,"26,363",Ciro Immobile - 36,Thomas Strakosha,
+2019-2020,Serie A,5,Roma,38,21,7,10,77,51,26,70,"26,956",Edin DÅ¾eko - 16,Pau LÃ³pez,
+2019-2020,Serie A,6,Milan,38,19,9,10,63,46,17,66,"34,078",Ante RebiÄ‡ - 11,Gianluigi Donnarumma,
+2019-2020,Serie A,7,Napoli,38,18,8,12,61,50,11,62,"21,622",Arkadiusz Milik - 11,Alex Meret,
+2019-2020,Serie A,8,Sassuolo,38,14,9,15,69,63,6,51,"7,704",Francesco Caputo - 21,Andrea Consigli,
+2019-2020,Serie A,9,Hellas Verona,38,12,13,13,47,51,-4,49,"11,248",Samuel Di Carmine - 8,Marco Silvestri,
+2019-2020,Serie A,10,Fiorentina,38,12,13,13,51,48,3,49,"22,486",Federico Chiesa - 11,BartÅ‚omiej DrÄ…gowski,
+2019-2020,Serie A,11,Parma,38,14,7,17,56,57,-1,49,"10,245",Andreas Cornelius - 12,Luigi Sepe,
+2019-2020,Serie A,12,Bologna,38,12,11,15,52,65,-13,47,"15,774",Musa Barrow - 9,Åukasz Skorupski,
+2019-2020,Serie A,13,Udinese,38,12,9,17,37,51,-14,45,"13,841",Kevin Lasagna - 10,Juan Musso,
+2019-2020,Serie A,14,Cagliari,38,11,12,15,52,56,-4,45,"10,728",JoÃ£o Pedro - 18,Robin Olsen,
+2019-2020,Serie A,15,Sampdoria,38,12,6,20,48,65,-17,42,"13,700","Manolo Gabbiadini, Fabio Quagliarella - 11",Emil Audero,
+2019-2020,Serie A,16,Torino,38,11,7,20,46,68,-22,40,"13,338",Andrea Belotti - 16,Salvatore Sirigu,
+2019-2020,Serie A,17,Genoa,38,10,9,19,47,73,-26,39,"14,016",Goran Pandev - 9,Mattia Perin,
+2019-2020,Serie A,18,Lecce,38,9,8,21,52,85,-33,35,"15,939",Marco Mancosu - 14,Gabriel,
+2019-2020,Serie A,19,Brescia,38,6,7,25,35,79,-44,25,"10,050","Ernesto Torregrossa, Alfredo Donnarumma - 7",Jesse Joronen,
+2019-2020,Serie A,20,SPAL,38,5,5,28,27,77,-50,20,"8,241",Andrea Petagna - 12,Etrit Berisha,

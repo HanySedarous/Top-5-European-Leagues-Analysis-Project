@@ -1,21 +1,21 @@
-﻿Season,League,Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper
-2019-2020,League 1,1,Paris S-G,27,22,2,3,75,24,51,68,"47,517",Kylian MbappÃ© - 18,Keylor Navas
-2019-2020,League 1,2,Marseille,28,16,8,4,41,29,12,56,"52,805",DarÃ­o Benedetto - 11,Steve Mandanda
-2019-2020,League 1,3,Rennes,28,15,5,8,38,24,14,50,"25,893",M'Baye Niang - 10,Edouard Mendy
-2019-2020,League 1,4,Lille,28,15,4,9,35,27,8,49,"36,404",Victor Osimhen - 13,Mike Maignan
-2019-2020,League 1,5,Reims,28,10,11,7,26,21,5,41,"12,932",Boulaye Dia - 7,Predrag RajkoviÄ‡
-2019-2020,League 1,6,Nice,28,11,8,9,41,38,3,41,"19,225",Kasper Dolberg - 11,Walter BenÃ­tez
-2019-2020,League 1,7,Lyon,28,11,7,10,42,27,15,40,"47,299",Moussa DembÃ©lÃ© - 16,Anthony Lopes
-2019-2020,League 1,8,Montpellier,28,11,7,10,35,34,1,40,"14,147",Andy Delort - 9,GerÃ³nimo Rulli
-2019-2020,League 1,9,Monaco,28,11,7,10,44,44,0,40,"6,451",Wissam Ben Yedder - 18,Benjamin Lecomte
-2019-2020,League 1,10,Strasbourg,27,11,5,11,32,32,0,38,"24,985","Adrien Thomasson, Ludovic Ajorque - 8",Matz Sels
-2019-2020,League 1,11,Angers,28,11,6,11,28,33,-5,39,"9,825",Rachid Alioui - 6,Ludovic Butelle
-2019-2020,League 1,12,Bordeaux,28,9,10,9,40,34,6,37,"23,430",Jimmy Briand - 7,BenoÃ®t Costil
-2019-2020,League 1,13,Nantes,28,11,4,13,28,31,-3,37,"24,635","Ludovic Blas, Moses Simon - 5",Alban Lafont
-2019-2020,League 1,14,Brest,28,8,10,10,34,37,-3,34,"13,713",Irvin Cardona - 6,Gautier Larsonneur
-2019-2020,League 1,15,Metz,28,8,10,10,27,35,-8,34,"16,583",Habib Diallo - 12,Alexandre Oukidja
-2019-2020,League 1,16,Dijon,28,7,9,12,27,37,-10,30,"12,707",Mama Samba BaldÃ© - 6,Alfred Gomis
-2019-2020,League 1,17,Saint-Ã‰tienne,28,8,6,14,29,45,-16,30,"23,205",Denis Bouanga - 10,StÃ©phane Ruffier
-2019-2020,League 1,18,NÃ®mes,28,7,6,15,29,44,-15,27,"12,555",Romain Philippoteaux - 5,Paul Bernardoni
-2019-2020,League 1,19,Amiens,28,4,11,13,31,50,-19,23,"11,616",Sehrou Guirassy - 9,RÃ©gis Gurtner
-2019-2020,League 1,20,Toulouse,28,3,4,21,22,58,-36,13,"14,200",Efthimis Koulouris - 4,Baptiste Reynet
+﻿Season,League,Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper,Winner
+2019-2020,League 1,1,Paris S-G,27,22,2,3,75,24,51,68,"47,517",Kylian MbappÃ© - 18,Keylor Navas,Champion
+2019-2020,League 1,2,Marseille,28,16,8,4,41,29,12,56,"52,805",DarÃ­o Benedetto - 11,Steve Mandanda,
+2019-2020,League 1,3,Rennes,28,15,5,8,38,24,14,50,"25,893",M'Baye Niang - 10,Edouard Mendy,
+2019-2020,League 1,4,Lille,28,15,4,9,35,27,8,49,"36,404",Victor Osimhen - 13,Mike Maignan,
+2019-2020,League 1,5,Reims,28,10,11,7,26,21,5,41,"12,932",Boulaye Dia - 7,Predrag RajkoviÄ‡,
+2019-2020,League 1,6,Nice,28,11,8,9,41,38,3,41,"19,225",Kasper Dolberg - 11,Walter BenÃ­tez,
+2019-2020,League 1,7,Lyon,28,11,7,10,42,27,15,40,"47,299",Moussa DembÃ©lÃ© - 16,Anthony Lopes,
+2019-2020,League 1,8,Montpellier,28,11,7,10,35,34,1,40,"14,147",Andy Delort - 9,GerÃ³nimo Rulli,
+2019-2020,League 1,9,Monaco,28,11,7,10,44,44,0,40,"6,451",Wissam Ben Yedder - 18,Benjamin Lecomte,
+2019-2020,League 1,10,Strasbourg,27,11,5,11,32,32,0,38,"24,985","Adrien Thomasson, Ludovic Ajorque - 8",Matz Sels,
+2019-2020,League 1,11,Angers,28,11,6,11,28,33,-5,39,"9,825",Rachid Alioui - 6,Ludovic Butelle,
+2019-2020,League 1,12,Bordeaux,28,9,10,9,40,34,6,37,"23,430",Jimmy Briand - 7,BenoÃ®t Costil,
+2019-2020,League 1,13,Nantes,28,11,4,13,28,31,-3,37,"24,635","Ludovic Blas, Moses Simon - 5",Alban Lafont,
+2019-2020,League 1,14,Brest,28,8,10,10,34,37,-3,34,"13,713",Irvin Cardona - 6,Gautier Larsonneur,
+2019-2020,League 1,15,Metz,28,8,10,10,27,35,-8,34,"16,583",Habib Diallo - 12,Alexandre Oukidja,
+2019-2020,League 1,16,Dijon,28,7,9,12,27,37,-10,30,"12,707",Mama Samba BaldÃ© - 6,Alfred Gomis,
+2019-2020,League 1,17,Saint-Ã‰tienne,28,8,6,14,29,45,-16,30,"23,205",Denis Bouanga - 10,StÃ©phane Ruffier,
+2019-2020,League 1,18,NÃ®mes,28,7,6,15,29,44,-15,27,"12,555",Romain Philippoteaux - 5,Paul Bernardoni,
+2019-2020,League 1,19,Amiens,28,4,11,13,31,50,-19,23,"11,616",Sehrou Guirassy - 9,RÃ©gis Gurtner,
+2019-2020,League 1,20,Toulouse,28,3,4,21,22,58,-36,13,"14,200",Efthimis Koulouris - 4,Baptiste Reynet,
